@@ -1,13 +1,14 @@
+import apicache from 'apicache'
+import bodyParser from 'body-parser'
 import cors from 'cors'
+import crypto from 'crypto'
 import 'dotenv/config'
-import express from 'express'
+import express, { Request, Response } from 'express'
 import { graphqlHTTP } from 'express-graphql'
 import { buildSchema } from 'graphql'
 import { Director, Film } from 'uncanon-types'
-import { fileURLToPath } from 'url'
 import db, { OrderBy } from './data/store'
-
-const __filename = fileURLToPath(import.meta.url)
+import lexObject from './lexObject'
 
 // await seed({
 //   reset: false,
@@ -103,6 +104,8 @@ interface IDArgs {
 
 const root = {
   directors: async (args?: { orderBy: OrderBy<Director> }) => {
+    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
+
     const directors = await db.orderBy(db.directors.find({}), args?.orderBy)
 
     return await directors.map(async (d) => {
@@ -119,6 +122,8 @@ const root = {
     })
   },
   director: async ({ _id }: IDArgs) => {
+    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
+
     const director = await db.directors.findOne({ _id: Number(_id) })
     if (director) {
       const film = await db.films.findOne({
@@ -135,12 +140,16 @@ const root = {
     return null
   },
   films: async (args?: { orderBy: OrderBy<Film> }) => {
+    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
+
     const films = await db.orderBy(db.films.find({}), args?.orderBy)
     return await films.map((f) =>
       db.populate(f, [{ prop: 'directors', dataStore: db.directors }])
     )
   },
   film: async ({ _id }: IDArgs) => {
+    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
+
     const film = await db.films.findOne({ _id: Number(_id) })
     if (film) {
       return await db.populate(film, [
@@ -151,12 +160,32 @@ const root = {
   },
 }
 
+const jsonParser = bodyParser.json()
+
+apicache.options({
+  appendKey: (req: Request, _: never) => {
+    const { query, ...rest } = req.body
+    const requestKey = lexObject(rest)
+    const hash = crypto.createHash('md5')
+    hash.update(JSON.stringify(requestKey))
+    const digest = hash.digest('hex')
+    return digest
+  },
+})
+const cache = apicache.middleware
+const cache200 = cache(
+  '3 days',
+  (_: never, { statusCode }: Response) => statusCode === 200
+)
+
 const app = express()
 const port = 3000
 
 app.use(cors())
 app.use(
   '/graphql',
+  jsonParser,
+  cache200,
   graphqlHTTP({
     schema: schema,
     rootValue: root,

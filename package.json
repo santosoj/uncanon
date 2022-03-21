@@ -7,5 +7,8 @@
     "dev:server": "yarn --cwd ./server build:watch & yarn --cwd ./server start",
     "dev:client": "yarn --cwd ./client web"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.19.2"
+  }
 }
