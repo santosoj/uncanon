@@ -1,0 +1,51 @@
+{
+  "name": "juba",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "type-check:watch": " yarn run type-check -- --watch | sed -u 's/\\x1Bc//g'",
+    "build": "yarn run build:types && yarn run build:js",
+    "build:types": "tsc --emitDeclarationOnly",
+    "build:js": "webpack",
+    "build:watch": "yarn run  build:types --watch | sed -u 's/\\x1Bc//g' & yarn run build:js --watch",
+    "start": "nodemon --watch dist dist/index.js",
+    "ngrok": "ngrok http --region=au --hostname=shoopshoop.au.ngrok.io 3000"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/prompt-sync": "^4.1.1",
+    "@types/sharp": "^0.30.0",
+    "@types/webpack-env": "^1.16.3",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-import-graphql": "^2.8.1",
+    "csv-loader": "^3.0.3",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.0",
+    "prettier-plugin-organize-imports": "^2.3.4",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^4.6.2",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-node-externals": "^3.0.0"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "axios": "^0.26.0",
+    "core-js": "3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.3.0",
+    "nedb-promises": "^6.0.3",
+    "sharp": "^0.30.3",
+    "uncanon-types": "^1.0.4"
+  }
+}

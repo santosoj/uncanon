@@ -1,0 +1,33 @@
+{
+  "director": {
+    "_id": "14",
+    "lexKey": "Bertolucci",
+    "name": "Bernardo Bertolucci",
+    "birthYear": 1941,
+    "deathYear": 2018,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bernardo_Bertolucci%2C_film_director.jpg/214px-Bernardo_Bertolucci%2C_film_director.jpg",
+      "__typename": "Thumbnail"
+    },
+    "contentURLs": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Bernardo_Bertolucci",
+        "__typename": "PageURLField"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Bernardo_Bertolucci",
+        "__typename": "PageURLField"
+      },
+      "__typename": "ContentURLs"
+    },
+    "extract": "Bernardo Bertolucci OMRI was an Italian film director and screenwriter with a career that spanned 50 years. Considered one of the great filmmakers of the Italian cinema, Bertolucci's work achieved widespread international acclaim. He was the first Italian filmmaker to win the Academy Award for Best Director for The Last Emperor (1987), one of many accolades including two Golden Globes, two David di Donatellos, a British Academy Award, and a César Award. In recognition of his work, he was presented with the inaugural Honorary Palme d'Or Award at the opening ceremony of the 2011 Cannes Film Festival. He had previously received a Lifetime Achievement Golden Lion from the Venice Film Festival.",
+    "extractHTML": "<p><b>Bernardo Bertolucci</b> <span style=\"font-size:85%\">OMRI</span> was an Italian film director and screenwriter with a career that spanned 50 years. Considered one of the great filmmakers of the Italian cinema, Bertolucci's work achieved widespread international acclaim. He was the first Italian filmmaker to win the Academy Award for Best Director for <i>The Last Emperor</i> (1987), one of many accolades including two Golden Globes, two David di Donatellos, a British Academy Award, and a César Award. In recognition of his work, he was presented with the inaugural Honorary Palme d'Or Award at the opening ceremony of the 2011 Cannes Film Festival. He had previously received a Lifetime Achievement Golden Lion from the Venice Film Festival.</p>",
+    "film": {
+      "_id": "14",
+      "title": "The Conformist",
+      "image": "https://imdb-api.com/images/original/MV5BNDRhYjQ0NTUtNzJmYy00ZWUyLTk3NjQtZjE1MzM4ZDZiYTFlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "__typename": "FilmStub"
+    },
+    "__typename": "Director"
+  }
+}

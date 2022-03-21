@@ -1,0 +1,35 @@
+Arguments: 
+  /home/jonas/.nvm/versions/node/v16.13.2/bin/node /home/jonas/.nvm/versions/node/v16.13.2/bin/yarn add -D npm-run-all
+
+PATH: 
+  /home/jonas/.nvm/versions/node/v16.13.2/bin:/home/jonas/.pyenv/plugins/pyenv-virtualenv/shims:/home/jonas/.pyenv/shims:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/jonas/.yarn/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.2
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: connect ECONNREFUSED 127.0.0.1:4873
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+
+npm manifest: 
+  {
+    "name": "uncanon",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+      "ngrok": "yarn --cwd ./server ngrok",
+      "server:watch": "yarn --cwd ./server build:watch & yarn --cwd ./server start"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

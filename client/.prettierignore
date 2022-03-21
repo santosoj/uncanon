@@ -1,0 +1,8 @@
+*.lock
+.expo
+.figmagic
+assets
+tokens
+.gitignore
+.prettierignore
+.prettierrc

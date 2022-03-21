@@ -1,0 +1,16 @@
+query getAllDirectors($order: [Sort!], $fields: [String!]) {
+  directors(orderBy: { order: $order, fields: $fields }) {
+    _id
+    name
+    lexKey
+    birthYear
+    deathYear
+    film {
+      _id
+      title
+    }
+    thumbnail {
+      source
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "strict": {
+    "text-font-family": "Barlow Semi Condensed",
+
+    "text-caption-1-font-weight": "400",
+    "text-caption-2-font-weight": "400",
+    "text-label-font-weight": "400",
+    "text-paragraph-1-font-weight": "400",
+    "text-paragraph-2-font-weight": "400",
+    "text-subtitle-1-font-weight": "400",
+    "text-subtitle-2-font-weight": "400"
+  },
+  "components": {
+    "Card": {
+      "appearances": {
+        "outline": {
+          "mapping": {
+            "backgroundColor": "color-basic-200"
+          }
+        }
+      }
+    },
+    "Toggle": {
+      "appearances": {
+        "default": {
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "backgroundColor": "color-basic-500",
+                "state": {
+                  "checked": {
+                    "iconTintColor": "transparent",
+                    "backgroundColor": "color-basic-600"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

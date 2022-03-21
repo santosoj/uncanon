@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src"]
+}

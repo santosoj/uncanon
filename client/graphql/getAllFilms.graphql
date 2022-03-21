@@ -1,0 +1,16 @@
+query getAllFilms($order: [Sort!], $fields: [String!]) {
+  films(orderBy: { order: $order, fields: $fields }) {
+    _id
+    title
+    year
+    directorsText
+    image
+    directors {
+      _id
+      name
+      lexKey
+      birthYear
+      deathYear
+    }
+  }
+}

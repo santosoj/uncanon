@@ -1,0 +1,11 @@
+{
+  "name": "uncanon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ngrok": "yarn --cwd ./server ngrok",
+    "dev:server": "yarn --cwd ./server build:watch & yarn --cwd ./server start",
+    "dev:client": "yarn --cwd ./client web"
+  },
+  "devDependencies": {}
+}

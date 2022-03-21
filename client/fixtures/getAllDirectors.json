@@ -1,0 +1,973 @@
+{
+  "directors": [
+    {
+      "_id": "40",
+      "name": "Woody Allen",
+      "lexKey": "Allen",
+      "birthYear": 1935,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "39",
+        "title": "Crimes and Misdemeanors",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/226px-Woody_Allen_Cannes_2016.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "49",
+      "name": "Pedro Almodóvar",
+      "lexKey": "Almodóvar",
+      "birthYear": 1949,
+      "deathYear": 2147483647,
+      "film": { "_id": "46", "title": "Talk to Her", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pedro_Almod%C3%B3var_at_Premios_Goya_2017_1_%28cropped_3%29.jpg/241px-Pedro_Almod%C3%B3var_at_Premios_Goya_2017_1_%28cropped_3%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "21",
+      "name": "Michelangelo Antonioni",
+      "lexKey": "Antonioni",
+      "birthYear": 1912,
+      "deathYear": 2007,
+      "film": { "_id": "20", "title": "La Notte", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Michelangelo_Antonioni_portrait_%28cropped%29.jpg/307px-Michelangelo_Antonioni_portrait_%28cropped%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "9",
+      "name": "Ingmar Bergman",
+      "lexKey": "Bergman",
+      "birthYear": 1918,
+      "deathYear": 2007,
+      "film": { "_id": "9", "title": "Persona", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/239px-Ingmar_Bergman_%281966%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "14",
+      "name": "Bernardo Bertolucci",
+      "lexKey": "Bertolucci",
+      "birthYear": 1941,
+      "deathYear": 2018,
+      "film": {
+        "_id": "14",
+        "title": "The Conformist",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bernardo_Bertolucci%2C_film_director.jpg/214px-Bernardo_Bertolucci%2C_film_director.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "55",
+      "name": "Budd Boetticher",
+      "lexKey": "Boetticher",
+      "birthYear": 1916,
+      "deathYear": 2001,
+      "film": {
+        "_id": "52",
+        "title": "Seven Men From Now",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": null,
+      "__typename": "Director"
+    },
+    {
+      "_id": "4",
+      "name": "Robert Bresson",
+      "lexKey": "Bresson",
+      "birthYear": 1901,
+      "deathYear": 1999,
+      "film": { "_id": "4", "title": "Pickpocket", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Robert_Bresson.png/246px-Robert_Bresson.png",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "34",
+      "name": "Luis Buñuel",
+      "lexKey": "Buñuel",
+      "birthYear": 1900,
+      "deathYear": 1983,
+      "film": {
+        "_id": "33",
+        "title": "That Obscure Object of Desire",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Luis_Bu%C3%B1uel.JPG/204px-Luis_Bu%C3%B1uel.JPG",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "19",
+      "name": "Donald Cammell",
+      "lexKey": "Cammell",
+      "birthYear": 1934,
+      "deathYear": 1996,
+      "film": { "_id": "19", "title": "Performance", "__typename": "FilmStub" },
+      "thumbnail": null,
+      "__typename": "Director"
+    },
+    {
+      "_id": "60",
+      "name": "Marcel Carné",
+      "lexKey": "Carné",
+      "birthYear": 1906,
+      "deathYear": 1966,
+      "film": {
+        "_id": "57",
+        "title": "Children of Paradise",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/MarcelCarn%C3%A9.jpg/267px-MarcelCarn%C3%A9.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "3",
+      "name": "Charles Chaplin",
+      "lexKey": "Chaplin",
+      "birthYear": 1889,
+      "deathYear": 1977,
+      "film": { "_id": "3", "title": "City Lights", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlie_Chaplin_portrait.jpg/240px-Charlie_Chaplin_portrait.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "7",
+      "name": "Jean Cocteau",
+      "lexKey": "Cocteau",
+      "birthYear": 1889,
+      "deathYear": 1963,
+      "film": { "_id": "7", "title": "Orphée", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg/229px-Jean_Cocteau_b_Meurisse_1923.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "41",
+      "name": "Joel Coen",
+      "lexKey": "Coen",
+      "birthYear": 1954,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "40",
+        "title": "The Big Lebowski",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg/193px-Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "16",
+      "name": "Francis Coppola",
+      "lexKey": "Coppola",
+      "birthYear": 1939,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "16",
+        "title": "The Godfather",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francis_Ford_Coppola_2011_CC.jpg/261px-Francis_Ford_Coppola_2011_CC.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "44",
+      "name": "Stanley Donen",
+      "lexKey": "Donen",
+      "birthYear": 1924,
+      "deathYear": 2019,
+      "film": {
+        "_id": "42",
+        "title": "Singin’ in the Rain",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stanley_Donen_%28cropped%29.JPG/240px-Stanley_Donen_%28cropped%29.JPG",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "57",
+      "name": "Alexander Dovzhenko",
+      "lexKey": "Dovzhenko",
+      "birthYear": 1894,
+      "deathYear": 1956,
+      "film": { "_id": "54", "title": "Earth", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alexander_Dovzhenko.jpg/240px-Alexander_Dovzhenko.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "27",
+      "name": "Carl Dreyer",
+      "lexKey": "Dreyer",
+      "birthYear": 1889,
+      "deathYear": 1968,
+      "film": {
+        "_id": "26",
+        "title": "The Passion of Joan of Arc",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Carl_Theodor_Dreyer_%281965%29_by_Erling_Mandelmann.jpg/216px-Carl_Theodor_Dreyer_%281965%29_by_Erling_Mandelmann.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "38",
+      "name": "Rainer Werner Fassbinder",
+      "lexKey": "Fassbinder",
+      "birthYear": 1945,
+      "deathYear": 1982,
+      "film": {
+        "_id": "37",
+        "title": "Ali: Fear Eats the Soul",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PER51895_061.jpg/296px-PER51895_061.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "15",
+      "name": "Federico Fellini",
+      "lexKey": "Fellini",
+      "birthYear": 1920,
+      "deathYear": 1993,
+      "film": { "_id": "15", "title": "8 ½", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Federico_Fellini_NYWTS_2.jpg/320px-Federico_Fellini_NYWTS_2.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "12",
+      "name": "John Ford",
+      "lexKey": "Ford",
+      "birthYear": 1894,
+      "deathYear": 1973,
+      "film": {
+        "_id": "12",
+        "title": "The Searchers",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/John_Ford_1946.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "30",
+      "name": "Bob Fosse",
+      "lexKey": "Fosse",
+      "birthYear": 1927,
+      "deathYear": 1987,
+      "film": {
+        "_id": "29",
+        "title": "All That Jazz",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bob_Fosse_1963_%28cropped%29.jpg/236px-Bob_Fosse_1963_%28cropped%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "8",
+      "name": "Jean-Luc Godard",
+      "lexKey": "Godard",
+      "birthYear": 1930,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "8",
+        "title": "Masculin Féminin",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/240px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "10",
+      "name": "Alfred Hitchcock",
+      "lexKey": "Hitchcock",
+      "birthYear": 1899,
+      "deathYear": 1980,
+      "film": { "_id": "10", "title": "Vertigo", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/266px-Hitchcock%2C_Alfred_02.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "24",
+      "name": "John Huston",
+      "lexKey": "Huston",
+      "birthYear": 1906,
+      "deathYear": 1987,
+      "film": { "_id": "23", "title": "The Dead", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/John_Huston_-_publicity.JPG/253px-John_Huston_-_publicity.JPG",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "63",
+      "name": "Buster Keaton",
+      "lexKey": "Keaton",
+      "birthYear": 1895,
+      "deathYear": 1966,
+      "film": { "_id": "60", "title": "The General", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/223px-Busterkeaton_edit.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "45",
+      "name": "Gene Kelly",
+      "lexKey": "Kelly",
+      "birthYear": 1912,
+      "deathYear": 1996,
+      "film": {
+        "_id": "42",
+        "title": "Singin’ in the Rain",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gene_kelly.jpg/226px-Gene_kelly.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "25",
+      "name": "Stanley Kubrick",
+      "lexKey": "Kubrick",
+      "birthYear": 1928,
+      "deathYear": 1999,
+      "film": {
+        "_id": "24",
+        "title": "2001: A Space Odyssey",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kubrick_on_the_set_of_Barry_Lyndon_%281975_publicity_photo%29_crop.jpg/262px-Kubrick_on_the_set_of_Barry_Lyndon_%281975_publicity_photo%29_crop.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "32",
+      "name": "Akira Kurosawa",
+      "lexKey": "Kurosawa",
+      "birthYear": 1910,
+      "deathYear": 1998,
+      "film": {
+        "_id": "31",
+        "title": "High and Low",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/191px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "5",
+      "name": "Fritz Lang",
+      "lexKey": "Lang",
+      "birthYear": 1890,
+      "deathYear": 1976,
+      "film": { "_id": "5", "title": "Metropolis", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fritz_Lang_%281969%29.jpg/240px-Fritz_Lang_%281969%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "52",
+      "name": "Sergio Leone",
+      "lexKey": "Leone",
+      "birthYear": 1929,
+      "deathYear": 1989,
+      "film": {
+        "_id": "49",
+        "title": "Once Upon a Time in the West",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sergio_Leone_1975.jpg/222px-Sergio_Leone_1975.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "58",
+      "name": "Joseph H. Lewis",
+      "lexKey": "Lewis",
+      "birthYear": 1907,
+      "deathYear": 2000,
+      "film": { "_id": "55", "title": "Gun Crazy", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lewis_con_Glenn_Ford_sul_set.jpg/320px-Lewis_con_Glenn_Ford_sul_set.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "39",
+      "name": "David Lynch",
+      "lexKey": "Lynch",
+      "birthYear": 1946,
+      "deathYear": 2147483647,
+      "film": { "_id": "38", "title": "Blue Velvet", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/David_Lynch_Cannes_2017.jpg/216px-David_Lynch_Cannes_2017.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "33",
+      "name": "Alexander Mackendrick",
+      "lexKey": "Mackendrick",
+      "birthYear": 1912,
+      "deathYear": 1993,
+      "film": {
+        "_id": "32",
+        "title": "Sweet Smell of Success",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/d/de/Alexander_Mackendrick.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "61",
+      "name": "Anthony Mann",
+      "lexKey": "Mann",
+      "birthYear": 1906,
+      "deathYear": 1967,
+      "film": {
+        "_id": "58",
+        "title": "The Naked Spur",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/c/c3/Anthony-mann-portrait-small.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "35",
+      "name": "Vincente Minnelli",
+      "lexKey": "Minnelli",
+      "birthYear": 1903,
+      "deathYear": 1986,
+      "film": {
+        "_id": "34",
+        "title": "An American in Paris",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Vincent_Minelli_-_1950s.jpg/245px-Vincent_Minelli_-_1950s.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "31",
+      "name": "Kenji Mizoguchi",
+      "lexKey": "Mizoguchi",
+      "birthYear": 1898,
+      "deathYear": 1956,
+      "film": {
+        "_id": "30",
+        "title": "The Life of Oharu",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kenji_Mizoguchi_3.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "11",
+      "name": "F. W. Murnau",
+      "lexKey": "Murnau",
+      "birthYear": 1888,
+      "deathYear": 1931,
+      "film": { "_id": "11", "title": "Sunrise", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/F._W._Murnau_circa_1920-1930.jpg/254px-F._W._Murnau_circa_1920-1930.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "51",
+      "name": "Max Ophüls",
+      "lexKey": "Ophüls",
+      "birthYear": 1902,
+      "deathYear": 1957,
+      "film": {
+        "_id": "48",
+        "title": "Letter from an Unknown Woman",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/d/d2/MaxOph%C3%BCls.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "2",
+      "name": "Yasujiro Ozu",
+      "lexKey": "Ozu",
+      "birthYear": 1903,
+      "deathYear": 1963,
+      "film": { "_id": "2", "title": "Tokyo Story", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yasujiro_Ozu_01.jpg/267px-Yasujiro_Ozu_01.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "29",
+      "name": "Sam Peckinpah",
+      "lexKey": "Peckinpah",
+      "birthYear": 1925,
+      "deathYear": 1984,
+      "film": {
+        "_id": "28",
+        "title": "The Wild Bunch",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sam_Peckinpah.JPG/180px-Sam_Peckinpah.JPG",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "46",
+      "name": "Roman Polanski",
+      "lexKey": "Polanski",
+      "birthYear": 1933,
+      "deathYear": 2147483647,
+      "film": { "_id": "43", "title": "Chinatown", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roman_Polanski_2011_2.jpg/227px-Roman_Polanski_2011_2.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "42",
+      "name": "Michael Powell",
+      "lexKey": "Powell",
+      "birthYear": 1905,
+      "deathYear": 1990,
+      "film": {
+        "_id": "41",
+        "title": "The Red Shoes",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/MichaelPowell.jpg/199px-MichaelPowell.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "43",
+      "name": "Emeric Pressburger",
+      "lexKey": "Pressburger",
+      "birthYear": 1902,
+      "deathYear": 1988,
+      "film": {
+        "_id": "41",
+        "title": "The Red Shoes",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/6/6c/EmericPressburger.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "18",
+      "name": "Carol Reed",
+      "lexKey": "Reed",
+      "birthYear": 1906,
+      "deathYear": 1976,
+      "film": {
+        "_id": "18",
+        "title": "The Third Man",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/4/4b/Carol_Reed.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "1",
+      "name": "Jean Renoir",
+      "lexKey": "Renoir",
+      "birthYear": 1894,
+      "deathYear": 1979,
+      "film": {
+        "_id": "1",
+        "title": "The Rules of the Game",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jean_Renoir_%281959%29.tif/lossy-page1-222px-Jean_Renoir_%281959%29.tif.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "26",
+      "name": "Alain Resnais",
+      "lexKey": "Resnais",
+      "birthYear": 1922,
+      "deathYear": 2014,
+      "film": {
+        "_id": "25",
+        "title": "Last Year at Marienbad",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Alain_Resnais_C%C3%A9sars_2recorte.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "20",
+      "name": "Nicolas Roeg",
+      "lexKey": "Roeg",
+      "birthYear": 1928,
+      "deathYear": 2018,
+      "film": { "_id": "19", "title": "Performance", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nicolas_Roeg.jpg/223px-Nicolas_Roeg.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "56",
+      "name": "Eric Rohmer",
+      "lexKey": "Rohmer",
+      "birthYear": 1920,
+      "deathYear": 2010,
+      "film": {
+        "_id": "53",
+        "title": "Claire’s Knee",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eric_Rohmer_cinematheque_2004-04.jpg/256px-Eric_Rohmer_cinematheque_2004-04.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "53",
+      "name": "Francesco Rosi",
+      "lexKey": "Rosi",
+      "birthYear": 1922,
+      "deathYear": 2015,
+      "film": {
+        "_id": "50",
+        "title": "Salvatore Giuliano",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Francesco_Rosi_Cannes.jpg/219px-Francesco_Rosi_Cannes.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "36",
+      "name": "Roberto Rossellini",
+      "lexKey": "Rossellini",
+      "birthYear": 1906,
+      "deathYear": 1977,
+      "film": {
+        "_id": "35",
+        "title": "Voyage to Italy",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rossellini%2Bgatta.jpg/307px-Rossellini%2Bgatta.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "37",
+      "name": "Martin Scorsese",
+      "lexKey": "Scorsese",
+      "birthYear": 1942,
+      "deathYear": 2147483647,
+      "film": { "_id": "36", "title": "Taxi Driver", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Martin_Scorsese_Berlinale_2010_%28cropped2%29.jpg/228px-Martin_Scorsese_Berlinale_2010_%28cropped2%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "22",
+      "name": "Alexander Sokurov",
+      "lexKey": "Sokurov",
+      "birthYear": 1951,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "21",
+        "title": "Mother and Son",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alexander_Sokurov_in_Fajr_International_Film_Festival_01.jpg/296px-Alexander_Sokurov_in_Fajr_International_Film_Festival_01.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "50",
+      "name": "Josef von Sternberg",
+      "lexKey": "Sternberg",
+      "birthYear": 1894,
+      "deathYear": 1969,
+      "film": {
+        "_id": "47",
+        "title": "Shanghai Express",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Josef_von_Sternberg.jpg/216px-Josef_von_Sternberg.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "62",
+      "name": "George Stevens",
+      "lexKey": "Stevens",
+      "birthYear": 1904,
+      "deathYear": 1975,
+      "film": {
+        "_id": "59",
+        "title": "A Place in the Sun",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/George_Stevens_with_Oscar_for_Giant.jpg/227px-George_Stevens_with_Oscar_for_Giant.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "13",
+      "name": "Preston Sturges",
+      "lexKey": "Sturges",
+      "birthYear": 1898,
+      "deathYear": 1959,
+      "film": {
+        "_id": "13",
+        "title": "The Lady Eve",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/b/b0/Preston_Sturges.gif",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "54",
+      "name": "Andrei Tarkovsky",
+      "lexKey": "Tarkovsky",
+      "birthYear": 1932,
+      "deathYear": 1986,
+      "film": { "_id": "51", "title": "Nostalghia", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Andriej_Tarkowski.jpg/237px-Andriej_Tarkowski.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "59",
+      "name": "Jacques Tourneur",
+      "lexKey": "Tourneur",
+      "birthYear": 1904,
+      "deathYear": 1977,
+      "film": {
+        "_id": "56",
+        "title": "Out of the Past",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/7/75/Tourneur.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "28",
+      "name": "François Truffaut",
+      "lexKey": "Truffaut",
+      "birthYear": 1932,
+      "deathYear": 1984,
+      "film": {
+        "_id": "27",
+        "title": "Jules and Jim",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/240px-Fran%C3%A7ois_Truffaut_%281965%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "47",
+      "name": "King Vidor",
+      "lexKey": "Vidor",
+      "birthYear": 1894,
+      "deathYear": 1982,
+      "film": { "_id": "44", "title": "The Crowd", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/King_Vidor%2C_American_film_director_%281894-1982%29.jpg/248px-King_Vidor%2C_American_film_director_%281894-1982%29.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "23",
+      "name": "Luchino Visconti",
+      "lexKey": "Visconti",
+      "birthYear": 1906,
+      "deathYear": 1976,
+      "film": { "_id": "22", "title": "The Leopard", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/243px-Luchino_Visconti_1972b.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "6",
+      "name": "Orson Welles",
+      "lexKey": "Welles",
+      "birthYear": 1915,
+      "deathYear": 1985,
+      "film": { "_id": "6", "title": "Citizen Kane", "__typename": "FilmStub" },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orson_Welles_1937.jpg/250px-Orson_Welles_1937.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "48",
+      "name": "Billy Wilder",
+      "lexKey": "Wilder",
+      "birthYear": 1906,
+      "deathYear": 2002,
+      "film": {
+        "_id": "45",
+        "title": "Sunset Boulevard",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    },
+    {
+      "_id": "17",
+      "name": "Wong Kar Wai",
+      "lexKey": "Wong",
+      "birthYear": 1958,
+      "deathYear": 2147483647,
+      "film": {
+        "_id": "17",
+        "title": "In the Mood for Love",
+        "__typename": "FilmStub"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wong_Kar-wai_Berlin_cropped.jpg/225px-Wong_Kar-wai_Berlin_cropped.jpg",
+        "__typename": "Thumbnail"
+      },
+      "__typename": "Director"
+    }
+  ]
+}

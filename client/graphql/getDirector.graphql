@@ -1,0 +1,27 @@
+query getDirector($id: ID!) {
+  director(_id: $id) {
+    _id
+    lexKey
+    name
+    birthYear
+    deathYear
+    thumbnail {
+      source
+    }
+    contentURLs {
+      desktop {
+        page
+      }
+      mobile {
+        page
+      }
+    }
+    extract
+    extractHTML
+    film {
+      _id
+      title
+      image
+    }
+  }
+}

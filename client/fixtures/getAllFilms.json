@@ -1,0 +1,1108 @@
+{
+  "films": [
+    {
+      "_id": "1",
+      "title": "The Rules of the Game",
+      "year": 1939,
+      "directorsText": "Jean Renoir",
+      "image": "https://imdb-api.com/images/original/MV5BYTE4NjYxMGEtZmQxZi00YWVmLWJjZTctYTJmNDFmZGEwNDVhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7260_AL_.jpg",
+      "directors": [
+        {
+          "_id": "1",
+          "name": "Jean Renoir",
+          "lexKey": "Renoir",
+          "birthYear": 1894,
+          "deathYear": 1979,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "2",
+      "title": "Tokyo Story",
+      "year": 1953,
+      "directorsText": "Yasujirô Ozu",
+      "image": "https://imdb-api.com/images/original/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6975_AL_.jpg",
+      "directors": [
+        {
+          "_id": "2",
+          "name": "Yasujiro Ozu",
+          "lexKey": "Ozu",
+          "birthYear": 1903,
+          "deathYear": 1963,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "3",
+      "title": "City Lights",
+      "year": 1931,
+      "directorsText": "Charles Chaplin",
+      "image": "https://imdb-api.com/images/original/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "3",
+          "name": "Charles Chaplin",
+          "lexKey": "Chaplin",
+          "birthYear": 1889,
+          "deathYear": 1977,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "4",
+      "title": "Pickpocket",
+      "year": 1959,
+      "directorsText": "Robert Bresson",
+      "image": "https://imdb-api.com/images/original/MV5BZWNlMTM4YTYtNWY4NS00MDQzLTkzOWQtYzU0MGUxOTM3NzI3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.7117_AL_.jpg",
+      "directors": [
+        {
+          "_id": "4",
+          "name": "Robert Bresson",
+          "lexKey": "Bresson",
+          "birthYear": 1901,
+          "deathYear": 1999,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "5",
+      "title": "Metropolis",
+      "year": 1927,
+      "directorsText": "Fritz Lang",
+      "image": "https://imdb-api.com/images/original/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "5",
+          "name": "Fritz Lang",
+          "lexKey": "Lang",
+          "birthYear": 1890,
+          "deathYear": 1976,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "6",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "directorsText": "Orson Welles",
+      "image": "https://imdb-api.com/images/original/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "6",
+          "name": "Orson Welles",
+          "lexKey": "Welles",
+          "birthYear": 1915,
+          "deathYear": 1985,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "7",
+      "title": "Orphée",
+      "year": 1950,
+      "directorsText": "Jean Cocteau",
+      "image": "https://imdb-api.com/images/original/MV5BMTUwMjUwMTY2MV5BMl5BanBnXkFtZTgwNzA2MDM5MTE@._V1_Ratio0.7473_AL_.jpg",
+      "directors": [
+        {
+          "_id": "7",
+          "name": "Jean Cocteau",
+          "lexKey": "Cocteau",
+          "birthYear": 1889,
+          "deathYear": 1963,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "8",
+      "title": "Masculin Féminin",
+      "year": 1966,
+      "directorsText": "Jean-Luc Godard",
+      "image": "https://imdb-api.com/images/original/MV5BMGI0Mjk1MWItNGNlYy00Njc5LWE3MTAtNDk1MThkYTQyMzIwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7402_AL_.jpg",
+      "directors": [
+        {
+          "_id": "8",
+          "name": "Jean-Luc Godard",
+          "lexKey": "Godard",
+          "birthYear": 1930,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "9",
+      "title": "Persona",
+      "year": 1966,
+      "directorsText": "Ingmar Bergman",
+      "image": "https://imdb-api.com/images/original/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "9",
+          "name": "Ingmar Bergman",
+          "lexKey": "Bergman",
+          "birthYear": 1918,
+          "deathYear": 2007,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "10",
+      "title": "Vertigo",
+      "year": 1958,
+      "directorsText": "Alfred Hitchcock",
+      "image": "https://imdb-api.com/images/original/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "10",
+          "name": "Alfred Hitchcock",
+          "lexKey": "Hitchcock",
+          "birthYear": 1899,
+          "deathYear": 1980,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "11",
+      "title": "Sunrise",
+      "year": 1927,
+      "directorsText": "F.W. Murnau",
+      "image": "https://imdb-api.com/images/original/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "11",
+          "name": "F. W. Murnau",
+          "lexKey": "Murnau",
+          "birthYear": 1888,
+          "deathYear": 1931,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "12",
+      "title": "The Searchers",
+      "year": 1956,
+      "directorsText": "John Ford",
+      "image": "https://imdb-api.com/images/original/MV5BYWQ3YWJiMDEtMDBhNS00YjY1LTkzNmEtY2U4Njg4MjQ3YWE3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "12",
+          "name": "John Ford",
+          "lexKey": "Ford",
+          "birthYear": 1894,
+          "deathYear": 1973,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "13",
+      "title": "The Lady Eve",
+      "year": 1941,
+      "directorsText": "Preston Sturges",
+      "image": "https://imdb-api.com/images/original/MV5BOTQzNWM4Y2QtMWVhYS00MTNkLTgxMGMtNjM5Y2FmNjQ2MWFiXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "13",
+          "name": "Preston Sturges",
+          "lexKey": "Sturges",
+          "birthYear": 1898,
+          "deathYear": 1959,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "14",
+      "title": "The Conformist",
+      "year": 1970,
+      "directorsText": "Bernardo Bertolucci",
+      "image": "https://imdb-api.com/images/original/MV5BNDRhYjQ0NTUtNzJmYy00ZWUyLTk3NjQtZjE1MzM4ZDZiYTFlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "14",
+          "name": "Bernardo Bertolucci",
+          "lexKey": "Bertolucci",
+          "birthYear": 1941,
+          "deathYear": 2018,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "15",
+      "title": "8 ½",
+      "year": 1963,
+      "directorsText": "Federico Fellini",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ4MTA0NjEzMF5BMl5BanBnXkFtZTgwMDg4NDYxMzE@._V1_Ratio0.7189_AL_.jpg",
+      "directors": [
+        {
+          "_id": "15",
+          "name": "Federico Fellini",
+          "lexKey": "Fellini",
+          "birthYear": 1920,
+          "deathYear": 1993,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "16",
+      "title": "The Godfather",
+      "year": 1972,
+      "directorsText": "Francis Ford Coppola",
+      "image": "https://imdb-api.com/images/original/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7046_AL_.jpg",
+      "directors": [
+        {
+          "_id": "16",
+          "name": "Francis Coppola",
+          "lexKey": "Coppola",
+          "birthYear": 1939,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "17",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "directorsText": "Kar-Wai Wong",
+      "image": "https://imdb-api.com/images/original/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7046_AL_.jpg",
+      "directors": [
+        {
+          "_id": "17",
+          "name": "Wong Kar Wai",
+          "lexKey": "Wong",
+          "birthYear": 1958,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "18",
+      "title": "The Third Man",
+      "year": 1949,
+      "directorsText": "Carol Reed",
+      "image": "https://imdb-api.com/images/original/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "18",
+          "name": "Carol Reed",
+          "lexKey": "Reed",
+          "birthYear": 1906,
+          "deathYear": 1976,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "19",
+      "title": "Performance",
+      "year": 1970,
+      "directorsText": "Donald Cammell, Nicolas Roeg",
+      "image": "https://imdb-api.com/images/original/MV5BODBlMGU1ZjItYTY1NS00MjY4LWJlYWUtNTkxOGE3ZWE5NDYxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "19",
+          "name": "Donald Cammell",
+          "lexKey": "Cammell",
+          "birthYear": 1934,
+          "deathYear": 1996,
+          "__typename": "Director"
+        },
+        {
+          "_id": "20",
+          "name": "Nicolas Roeg",
+          "lexKey": "Roeg",
+          "birthYear": 1928,
+          "deathYear": 2018,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "20",
+      "title": "La Notte",
+      "year": 1961,
+      "directorsText": "Michelangelo Antonioni",
+      "image": "https://imdb-api.com/images/original/MV5BMjIyODI2OTg4OF5BMl5BanBnXkFtZTgwNjkwMzg4OTE@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "21",
+          "name": "Michelangelo Antonioni",
+          "lexKey": "Antonioni",
+          "birthYear": 1912,
+          "deathYear": 2007,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "21",
+      "title": "Mother and Son",
+      "year": 1997,
+      "directorsText": "Aleksandr Sokurov",
+      "image": "https://imdb-api.com/images/original/MV5BZjZkODFhYmUtOTEzYi00OTY0LThlODEtMmU4OWNlZDExYzc2XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "22",
+          "name": "Alexander Sokurov",
+          "lexKey": "Sokurov",
+          "birthYear": 1951,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "22",
+      "title": "The Leopard",
+      "year": 1963,
+      "directorsText": "Luchino Visconti",
+      "image": "https://imdb-api.com/images/original/MV5BYTc0ZTQxY2EtNTUyYS00MTM5LWIyOTQtYzQ0YTBiNzc2YjE0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "23",
+          "name": "Luchino Visconti",
+          "lexKey": "Visconti",
+          "birthYear": 1906,
+          "deathYear": 1976,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "23",
+      "title": "The Dead",
+      "year": 1987,
+      "directorsText": "John Huston",
+      "image": "https://imdb-api.com/images/original/MV5BNGNkM2QxMzEtMzE4My00MDI3LWJhNTQtNzZjMjYwYTc0OTg0XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "24",
+          "name": "John Huston",
+          "lexKey": "Huston",
+          "birthYear": 1906,
+          "deathYear": 1987,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "24",
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "directorsText": "Stanley Kubrick",
+      "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "25",
+          "name": "Stanley Kubrick",
+          "lexKey": "Kubrick",
+          "birthYear": 1928,
+          "deathYear": 1999,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "25",
+      "title": "Last Year at Marienbad",
+      "year": 1961,
+      "directorsText": "Alain Resnais",
+      "image": "https://imdb-api.com/images/original/MV5BNTFmMzUzN2ItNmU3OS00ZmQxLTg1ODMtNjJjM2E4OWFkYWI5XkEyXkFqcGdeQXVyNTA1NjYyMDk@._V1_Ratio0.6833_AL_.jpg",
+      "directors": [
+        {
+          "_id": "26",
+          "name": "Alain Resnais",
+          "lexKey": "Resnais",
+          "birthYear": 1922,
+          "deathYear": 2014,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "26",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "directorsText": "Carl Theodor Dreyer",
+      "image": "https://imdb-api.com/images/original/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "27",
+          "name": "Carl Dreyer",
+          "lexKey": "Dreyer",
+          "birthYear": 1889,
+          "deathYear": 1968,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "27",
+      "title": "Jules and Jim",
+      "year": 1962,
+      "directorsText": "François Truffaut",
+      "image": "https://imdb-api.com/images/original/MV5BZTM1MTRiNDctMTFiMC00NGM1LTkyMWQtNTY1M2JjZDczOWQ3XkEyXkFqcGdeQXVyMDI3OTIzOA@@._V1_Ratio0.7473_AL_.jpg",
+      "directors": [
+        {
+          "_id": "28",
+          "name": "François Truffaut",
+          "lexKey": "Truffaut",
+          "birthYear": 1932,
+          "deathYear": 1984,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "28",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "directorsText": "Sam Peckinpah",
+      "image": "https://imdb-api.com/images/original/MV5BNGUyYTZmOWItMDJhMi00N2IxLWIyNDMtNjUxM2ZiYmU5YWU1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "29",
+          "name": "Sam Peckinpah",
+          "lexKey": "Peckinpah",
+          "birthYear": 1925,
+          "deathYear": 1984,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "29",
+      "title": "All That Jazz",
+      "year": 1979,
+      "directorsText": "Bob Fosse",
+      "image": "https://imdb-api.com/images/original/MV5BZjVlZTdlNDgtZTc5OS00YzQ2LWI1OTQtNmY2NDQ5Mjg0NTNiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "30",
+          "name": "Bob Fosse",
+          "lexKey": "Fosse",
+          "birthYear": 1927,
+          "deathYear": 1987,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "30",
+      "title": "The Life of Oharu",
+      "year": 1952,
+      "directorsText": "Kenji Mizoguchi",
+      "image": "https://imdb-api.com/images/original/MV5BOGMyZDkzNmItYzEzZC00YmJmLWE2ZTItNGRiMGQ5YzA4ZWI1XkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "31",
+          "name": "Kenji Mizoguchi",
+          "lexKey": "Mizoguchi",
+          "birthYear": 1898,
+          "deathYear": 1956,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "31",
+      "title": "High and Low",
+      "year": 1963,
+      "directorsText": "Akira Kurosawa",
+      "image": "https://imdb-api.com/images/original/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "32",
+          "name": "Akira Kurosawa",
+          "lexKey": "Kurosawa",
+          "birthYear": 1910,
+          "deathYear": 1998,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "32",
+      "title": "Sweet Smell of Success",
+      "year": 1957,
+      "directorsText": "Alexander Mackendrick",
+      "image": "https://imdb-api.com/images/original/MV5BMjE5NTU3YWYtOWIxNi00YWZhLTg2NzktYzVjZWY5MDQ4NzVlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "33",
+          "name": "Alexander Mackendrick",
+          "lexKey": "Mackendrick",
+          "birthYear": 1912,
+          "deathYear": 1993,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "33",
+      "title": "That Obscure Object of Desire",
+      "year": 1977,
+      "directorsText": "Luis Buñuel",
+      "image": "https://imdb-api.com/images/original/MV5BNGQzZGQxZTctMzE2Mi00OGFiLTg2ZjQtZTAwYzMyMjExN2JiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "34",
+          "name": "Luis Buñuel",
+          "lexKey": "Buñuel",
+          "birthYear": 1900,
+          "deathYear": 1983,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "34",
+      "title": "An American in Paris",
+      "year": 1951,
+      "directorsText": "Vincente Minnelli",
+      "image": "https://imdb-api.com/images/original/MV5BMzFkNGM0YTUtZjY5Ny00NzBkLWE1NTAtYzUxNjUyZmJlODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "35",
+          "name": "Vincente Minnelli",
+          "lexKey": "Minnelli",
+          "birthYear": 1903,
+          "deathYear": 1986,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "35",
+      "title": "Voyage to Italy",
+      "year": 1954,
+      "directorsText": "Roberto Rossellini",
+      "image": "https://imdb-api.com/images/original/MV5BNTRiM2E4MGUtOGVkOS00OTIwLTg4MzEtMDEzOThiNTQ2YjY4XkEyXkFqcGdeQXVyNjI5NTk0MzE@._V1_Ratio0.7260_AL_.jpg",
+      "directors": [
+        {
+          "_id": "36",
+          "name": "Roberto Rossellini",
+          "lexKey": "Rossellini",
+          "birthYear": 1906,
+          "deathYear": 1977,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "36",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "directorsText": "Martin Scorsese",
+      "image": "https://imdb-api.com/images/original/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "37",
+          "name": "Martin Scorsese",
+          "lexKey": "Scorsese",
+          "birthYear": 1942,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "37",
+      "title": "Ali: Fear Eats the Soul",
+      "year": 1974,
+      "directorsText": "Rainer Werner Fassbinder",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ5YzM4MGMtYzIwZS00MjliLTg5NDUtZTUxYjJhNTI1NDU3XkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_Ratio0.7117_AL_.jpg",
+      "directors": [
+        {
+          "_id": "38",
+          "name": "Rainer Werner Fassbinder",
+          "lexKey": "Fassbinder",
+          "birthYear": 1945,
+          "deathYear": 1982,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "38",
+      "title": "Blue Velvet",
+      "year": 1986,
+      "directorsText": "David Lynch",
+      "image": "https://imdb-api.com/images/original/MV5BMzExOTczNTgtN2Q1Yy00MmI1LWE0NjgtNmIwMzdmZGNlODU1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.6833_AL_.jpg",
+      "directors": [
+        {
+          "_id": "39",
+          "name": "David Lynch",
+          "lexKey": "Lynch",
+          "birthYear": 1946,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "39",
+      "title": "Crimes and Misdemeanors",
+      "year": 1989,
+      "directorsText": "Woody Allen",
+      "image": "https://imdb-api.com/images/original/MV5BYWY3N2EyOWYtNDVhZi00MWRkLTg2OTUtODNkNDQ5ZTIwMGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "40",
+          "name": "Woody Allen",
+          "lexKey": "Allen",
+          "birthYear": 1935,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "40",
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "directorsText": "Joel Coen, Ethan Coen",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "41",
+          "name": "Joel Coen",
+          "lexKey": "Coen",
+          "birthYear": 1954,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "41",
+      "title": "The Red Shoes",
+      "year": 1948,
+      "directorsText": "Michael Powell, Emeric Pressburger",
+      "image": "https://imdb-api.com/images/original/MV5BOWRmNGEwZjUtZjEwNS00OGZmLThhMmEtZTJlMTU5MGQ3ZWUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "42",
+          "name": "Michael Powell",
+          "lexKey": "Powell",
+          "birthYear": 1905,
+          "deathYear": 1990,
+          "__typename": "Director"
+        },
+        {
+          "_id": "43",
+          "name": "Emeric Pressburger",
+          "lexKey": "Pressburger",
+          "birthYear": 1902,
+          "deathYear": 1988,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "42",
+      "title": "Singin’ in the Rain",
+      "year": 1952,
+      "directorsText": "Stanley Donen, Gene Kelly",
+      "image": "https://imdb-api.com/images/original/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6833_AL_.jpg",
+      "directors": [
+        {
+          "_id": "44",
+          "name": "Stanley Donen",
+          "lexKey": "Donen",
+          "birthYear": 1924,
+          "deathYear": 2019,
+          "__typename": "Director"
+        },
+        {
+          "_id": "45",
+          "name": "Gene Kelly",
+          "lexKey": "Kelly",
+          "birthYear": 1912,
+          "deathYear": 1996,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "43",
+      "title": "Chinatown",
+      "year": 1974,
+      "directorsText": "Roman Polanski",
+      "image": "https://imdb-api.com/images/original/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "46",
+          "name": "Roman Polanski",
+          "lexKey": "Polanski",
+          "birthYear": 1933,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "44",
+      "title": "The Crowd",
+      "year": 1928,
+      "directorsText": "King Vidor",
+      "image": "https://imdb-api.com/images/original/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "47",
+          "name": "King Vidor",
+          "lexKey": "Vidor",
+          "birthYear": 1894,
+          "deathYear": 1982,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "45",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "directorsText": "Billy Wilder",
+      "image": "https://imdb-api.com/images/original/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "48",
+          "name": "Billy Wilder",
+          "lexKey": "Wilder",
+          "birthYear": 1906,
+          "deathYear": 2002,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "46",
+      "title": "Talk to Her",
+      "year": 2002,
+      "directorsText": "Pedro Almodóvar",
+      "image": "https://imdb-api.com/images/original/MV5BMzFhNmQzYWQtMDhmNC00ZGJmLWI5NjYtNmI3MjBiZDNjNjdlXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_Ratio0.7046_AL_.jpg",
+      "directors": [
+        {
+          "_id": "49",
+          "name": "Pedro Almodóvar",
+          "lexKey": "Almodóvar",
+          "birthYear": 1949,
+          "deathYear": 2147483647,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "47",
+      "title": "Shanghai Express",
+      "year": 1932,
+      "directorsText": "Josef von Sternberg",
+      "image": "https://imdb-api.com/images/original/MV5BMDc3ODRlZDktY2M2MC00Y2UxLWI1MWMtODkyYjI1NzQyNjIwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "50",
+          "name": "Josef von Sternberg",
+          "lexKey": "Sternberg",
+          "birthYear": 1894,
+          "deathYear": 1969,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "48",
+      "title": "Letter from an Unknown Woman",
+      "year": 1948,
+      "directorsText": "Max Ophüls",
+      "image": "https://imdb-api.com/images/original/MV5BY2VhMDdlM2UtYjViZi00OWFjLWI5YjUtYjY4NjRjOTJhOGNlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "51",
+          "name": "Max Ophüls",
+          "lexKey": "Ophüls",
+          "birthYear": 1902,
+          "deathYear": 1957,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "49",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "directorsText": "Sergio Leone",
+      "image": "https://imdb-api.com/images/original/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "52",
+          "name": "Sergio Leone",
+          "lexKey": "Leone",
+          "birthYear": 1929,
+          "deathYear": 1989,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "50",
+      "title": "Salvatore Giuliano",
+      "year": 1962,
+      "directorsText": "Francesco Rosi",
+      "image": "https://imdb-api.com/images/original/MV5BZjZlMDE5ZGYtNzRmZS00YjRmLWEyNTAtZmVlYmQwYzU5ODIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "53",
+          "name": "Francesco Rosi",
+          "lexKey": "Rosi",
+          "birthYear": 1922,
+          "deathYear": 2015,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "51",
+      "title": "Nostalghia",
+      "year": 1983,
+      "directorsText": "Andrei Tarkovsky",
+      "image": "https://imdb-api.com/images/original/MV5BMmZmMjZhMmYtNmU5NC00MTc3LWIyZTEtMDg0MGI0MzJhZjVhXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_Ratio0.6975_AL_.jpg",
+      "directors": [
+        {
+          "_id": "54",
+          "name": "Andrei Tarkovsky",
+          "lexKey": "Tarkovsky",
+          "birthYear": 1932,
+          "deathYear": 1986,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "52",
+      "title": "Seven Men From Now",
+      "year": 1956,
+      "directorsText": "Budd Boetticher",
+      "image": "https://imdb-api.com/images/original/MV5BZmU4MDAxZDctYmE4Ny00Nzc2LWE2YzEtMDgyODU5ZDRiYWNkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "55",
+          "name": "Budd Boetticher",
+          "lexKey": "Boetticher",
+          "birthYear": 1916,
+          "deathYear": 2001,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "53",
+      "title": "Claire’s Knee",
+      "year": 1970,
+      "directorsText": "Éric Rohmer",
+      "image": "https://imdb-api.com/images/original/MV5BYTMyMzM1ZWEtZGZhOC00M2U5LThmNjgtMjBhYWVmOTlmOGExXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "56",
+          "name": "Eric Rohmer",
+          "lexKey": "Rohmer",
+          "birthYear": 1920,
+          "deathYear": 2010,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "54",
+      "title": "Earth",
+      "year": 1930,
+      "directorsText": "Aleksandr Dovzhenko",
+      "image": "https://imdb-api.com/images/original/MV5BMDg4MzU3OTgtZmFkOC00MGRkLTlmZDctYWEwN2JmYWM1YTc4XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio0.7260_AL_.jpg",
+      "directors": [
+        {
+          "_id": "57",
+          "name": "Alexander Dovzhenko",
+          "lexKey": "Dovzhenko",
+          "birthYear": 1894,
+          "deathYear": 1956,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "55",
+      "title": "Gun Crazy",
+      "year": 1950,
+      "directorsText": "Joseph H. Lewis",
+      "image": "https://imdb-api.com/images/original/MV5BMGRlOWYyZjItMzMwZS00ZTA5LTliYWUtZWQxZTllOTQ1Y2VlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "58",
+          "name": "Joseph H. Lewis",
+          "lexKey": "Lewis",
+          "birthYear": 1907,
+          "deathYear": 2000,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "56",
+      "title": "Out of the Past",
+      "year": 1947,
+      "directorsText": "Jacques Tourneur",
+      "image": "https://imdb-api.com/images/original/MV5BMDE0MjYxYmMtM2VhMC00MjhiLTg5NjItMDkzZGM5MGVlYjMxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "59",
+          "name": "Jacques Tourneur",
+          "lexKey": "Tourneur",
+          "birthYear": 1904,
+          "deathYear": 1977,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "57",
+      "title": "Children of Paradise",
+      "year": 1945,
+      "directorsText": "Marcel Carné",
+      "image": "https://imdb-api.com/images/original/MV5BZjVjYTAzYjctZTZkNi00NmNhLWJkY2UtNjEyOWQ5NTI0MmEzXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_Ratio0.6904_AL_.jpg",
+      "directors": [
+        {
+          "_id": "60",
+          "name": "Marcel Carné",
+          "lexKey": "Carné",
+          "birthYear": 1906,
+          "deathYear": 1966,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "58",
+      "title": "The Naked Spur",
+      "year": 1953,
+      "directorsText": "Anthony Mann",
+      "image": "https://imdb-api.com/images/original/MV5BMGYwODI3ZTAtMWRiZC00NjhjLWEzNjYtMDQ0YjJmMWFlYmQ1L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "61",
+          "name": "Anthony Mann",
+          "lexKey": "Mann",
+          "birthYear": 1906,
+          "deathYear": 1967,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "59",
+      "title": "A Place in the Sun",
+      "year": 1951,
+      "directorsText": "George Stevens",
+      "image": "https://imdb-api.com/images/original/MV5BMmNjMjE2ZDMtODQzYS00ZDc2LTk0ODgtNjI1NTNhZWI5MmE0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "62",
+          "name": "George Stevens",
+          "lexKey": "Stevens",
+          "birthYear": 1904,
+          "deathYear": 1975,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    },
+    {
+      "_id": "60",
+      "title": "The General",
+      "year": 1926,
+      "directorsText": "Clyde Bruckman, Buster Keaton",
+      "image": "https://imdb-api.com/images/original/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+      "directors": [
+        {
+          "_id": "63",
+          "name": "Buster Keaton",
+          "lexKey": "Keaton",
+          "birthYear": 1895,
+          "deathYear": 1966,
+          "__typename": "Director"
+        }
+      ],
+      "__typename": "Film"
+    }
+  ]
+}

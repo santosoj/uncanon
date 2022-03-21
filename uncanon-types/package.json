@@ -1,0 +1,9 @@
+{
+  "name": "uncanon-types",
+  "version": "1.0.4",
+  "main": "index.ts",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  }
+}
