@@ -9,11 +9,10 @@ spec:
   ingressClassName: nginx
   tls:
     - hosts:
-      - am.xtianwatch.com
-      - dam.xtianwatch.com
-      secretName: xtianwatch-wildcard
+      - api.uncanon.pictures
+      secretName: uncanon-wildcard
   rules:
-    - host: am.xtianwatch.com
+    - host: api.uncanon.pictures
       http:
         paths:
           - path: /
@@ -21,15 +20,5 @@ spec:
             backend:
               service:
                 name: uncanon-server
-                port:
-                  number: 3000
-    - host: dam.xtianwatch.com
-      http:
-        paths:
-          - path: /
-            pathType: Prefix
-            backend:
-              service:
-                name: hello
                 port:
                   number: 3000
