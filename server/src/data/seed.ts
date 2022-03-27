@@ -1,7 +1,3 @@
-import Axios, { AxiosInstance, AxiosResponse } from 'axios'
-import fs from 'fs'
-import path from 'path'
-import sharp from 'sharp'
 import {
   Director,
   Film,
@@ -9,10 +5,11 @@ import {
   PageURLField,
   PlainTextHTMLField,
 } from '@uncanon/types'
-import { fileURLToPath } from 'url'
+import Axios, { AxiosInstance, AxiosResponse } from 'axios'
+import fs from 'fs'
+import path from 'path'
+import sharp from 'sharp'
 import db from './store'
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
 
 interface SearchMovieData {
   results: {
@@ -147,9 +144,7 @@ export async function mergeWikipediaData(doFetch: boolean = false) {
         }
       }
       fs.writeFileSync(
-        __dirname +
-          process.env.NEDB_PERSISTENCE_DIRECTORY +
-          '/summaryResults.json',
+        process.env.NEDB_PERSISTENCE_DIRECTORY + '/summaryResults.json',
         JSON.stringify(summaryResults)
       )
     }
@@ -157,9 +152,7 @@ export async function mergeWikipediaData(doFetch: boolean = false) {
     let json = JSON.parse(
       fs
         .readFileSync(
-          __dirname +
-            process.env.NEDB_PERSISTENCE_DIRECTORY +
-            '/summaryResults.json'
+          process.env.NEDB_PERSISTENCE_DIRECTORY + '/summaryResults.json'
         )
         .toString('utf-8')
     )
@@ -237,9 +230,7 @@ async function mergeIMDBData(doFetch: boolean = false) {
         }
       }
       fs.writeFileSync(
-        __dirname +
-          process.env.NEDB_PERSISTENCE_DIRECTORY +
-          '/searchMovieResults.json',
+        process.env.NEDB_PERSISTENCE_DIRECTORY + '/searchMovieResults.json',
         JSON.stringify(searchMovieResults)
       )
     }
@@ -247,9 +238,7 @@ async function mergeIMDBData(doFetch: boolean = false) {
     let json = JSON.parse(
       fs
         .readFileSync(
-          __dirname +
-            process.env.NEDB_PERSISTENCE_DIRECTORY +
-            '/searchMovieResults.json'
+          process.env.NEDB_PERSISTENCE_DIRECTORY + '/searchMovieResults.json'
         )
         .toString('utf-8')
     )
@@ -290,9 +279,7 @@ async function mergeIMDBData(doFetch: boolean = false) {
         }
       }
       fs.writeFileSync(
-        __dirname +
-          process.env.NEDB_PERSISTENCE_DIRECTORY +
-          '/titleResults.json',
+        process.env.NEDB_PERSISTENCE_DIRECTORY + '/titleResults.json',
         JSON.stringify(titleResults)
       )
     }
@@ -300,9 +287,7 @@ async function mergeIMDBData(doFetch: boolean = false) {
     json = JSON.parse(
       fs
         .readFileSync(
-          __dirname +
-            process.env.NEDB_PERSISTENCE_DIRECTORY +
-            '/titleResults.json'
+          process.env.NEDB_PERSISTENCE_DIRECTORY + '/titleResults.json'
         )
         .toString('utf-8')
     )
@@ -426,7 +411,7 @@ async function fetchImages() {
     console.log(`Fetching film image ${i}/${nfilms}...`)
     const paddedID = film._id.toString().padStart(2, '0')
     const fileName = `film_${paddedID}${film.image.slice(-4).toLowerCase()}`
-    const filePath = __dirname + process.env.IMAGE_DIRECTORY + `/${fileName}`
+    const filePath = process.env.IMAGE_DIRECTORY + `/${fileName}`
     await fetchToFile(axios, film.image, filePath)
     const importedFileName = await processImage(filePath)
     imports.push(`import Film_${paddedID} from './${importedFileName}'`)
@@ -445,7 +430,7 @@ async function fetchImages() {
       const fileName = `director_${paddedID}${director.thumbnail.source
         .slice(-4)
         .toLowerCase()}`
-      const filePath = __dirname + process.env.IMAGE_DIRECTORY + `/${fileName}`
+      const filePath = process.env.IMAGE_DIRECTORY + `/${fileName}`
       await fetchToFile(axios, director.thumbnail.source, filePath)
       const importedFileName = await processImage(filePath)
       imports.push(`import Director_${paddedID} from './${importedFileName}'`)
@@ -475,7 +460,7 @@ async function fetchImages() {
   }
   imports.push(']')
 
-  const importsFile = __dirname + process.env.IMAGE_DIRECTORY + '/index.ts'
+  const importsFile = process.env.IMAGE_DIRECTORY + '/index.ts'
   console.log(`Writing imports to '${importsFile}'`)
 
   const importsFlat = imports.join('\n')

@@ -1,17 +1,12 @@
+import { Director, Film } from '@uncanon/types'
 import fs from 'fs'
 import Datastore from 'nedb-promises'
-import path from 'path'
-import { Director, Film } from '@uncanon/types'
-import { fileURLToPath } from 'url'
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
 
 type Databases = 'directors' | 'films'
 
 const PERSISTENCE_FILE: { [name in Databases]: string } = {
-  directors:
-    __dirname + process.env.NEDB_PERSISTENCE_DIRECTORY + '/directors.db',
-  films: __dirname + process.env.NEDB_PERSISTENCE_DIRECTORY + '/films.db',
+  directors: process.env.NEDB_PERSISTENCE_DIRECTORY + '/directors.db',
+  films: process.env.NEDB_PERSISTENCE_DIRECTORY + '/films.db',
 }
 
 type ArrayElement<ArrayType extends readonly unknown[]> =
