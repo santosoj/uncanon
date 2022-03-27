@@ -4,7 +4,7 @@ module.exports = function (api) {
     presets: ['babel-preset-expo'],
     plugins: [
       'import-graphql',
-      ['module:react-native-dotenv', { path: 'appvars.env' }],
+      ['module:react-native-dotenv', { path: '.env' }],
     ],
   }
 }

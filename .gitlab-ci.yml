@@ -5,6 +5,7 @@ variables:
 stages:
   - build_server
   - deploy_server
+  - build_and_deploy_client
 
 build_server:
   image: docker:19.03.12
@@ -37,3 +38,19 @@ deploy_server:
     - sed -i "s/<COMMIT_SHORT_SHA>/${CI_COMMIT_SHORT_SHA}/g" kubernetes/deployment.server.yaml
     - grep commit_short_sha kubernetes/deployment.server.yaml
     - kubectl apply -f kubernetes/deployment.server.yaml
+
+build_and_deploy_client:
+  image: docker:19.03.12
+  stage: build_and_deploy_client
+  services:
+    - docker:19.03.12-dind
+  rules:
+    - changes:
+      - client/**/*
+  script:
+    - >
+      docker build -t uncanon/client -f Dockerfile.client
+      --build-arg GRAPHQL_URL
+      --build-arg NPM_REGISTRY_AUTH_TOKEN
+      --build-arg VERCEL_TOKEN
+      .
