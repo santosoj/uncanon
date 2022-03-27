@@ -62,5 +62,3 @@ export type DirectorListResponse = ListResponse<'directors', DirectorListItem>
 export type FilmResponse = ObjectResponse<'film', Film>
 
 export type FilmListResponse = ListResponse<'films', FilmListItem>
-
-export const MAXINT32 = 0x7fffffff
