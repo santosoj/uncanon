@@ -1,0 +1,24 @@
+variables:
+  CONTAINER_IMAGE: grp75/uncanon/server
+
+stages:
+  - build_server
+  - deploy_server
+
+build_server:
+  image: docker:19.03.12
+  stage: build_server
+  services:
+    - docker:19.03.12-dind
+  rules:
+    - changes:
+      - server/**/*
+  script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - >
+      docker build -t $CI_REGISTRY/$CONTAINER_IMAGE
+      -f Dockerfile.server
+      --build-arg NEDB_PERSISTENCE_DIRECTORY
+      --build-arg NPM_REGISTRY_AUTH_TOKEN
+      .
+    - docker push $CI_REGISTRY/$CONTAINER_IMAGE

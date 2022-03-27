@@ -25,7 +25,7 @@ export type PopulateOption<
   dataStore: Datastore<Exclude<ArrayElement<T[P]>, number>>
 }
 
-type CursorType = any // protectionist nedb-promises
+type CursorType = any
 
 interface DB {
   directors: Datastore<Director>
