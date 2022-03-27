@@ -8,7 +8,7 @@ import ExternalLink from '../../components/ExternalLink'
 import KnownFor from '../../components/KnownFor'
 import WikipediaIcon from '../../graphics/wikipedia.png'
 import getDirector from '../../graphql/getDirector.graphql'
-import { DirectorResponse, MAXINT32 } from 'uncanon-types'
+import { DirectorResponse, MAXINT32 } from '@uncanon/types'
 import { Box, Text, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 

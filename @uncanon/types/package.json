@@ -1,0 +1,9 @@
+{
+  "name": "@uncanon/types",
+  "version": "1.0.4",
+  "main": "index.ts",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://gitlab.com/api/v4/projects/34834999/packages/npm/"
+  }
+}

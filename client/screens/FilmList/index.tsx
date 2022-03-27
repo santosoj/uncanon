@@ -11,7 +11,7 @@ import {
   toggleSortDirections,
 } from '../../components/SortControl/sorting'
 import allFilms from '../../graphql/getAllFilms.graphql'
-import { FilmListItem, FilmListResponse } from 'uncanon-types'
+import { FilmListItem, FilmListResponse } from '@uncanon/types'
 import { Box, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 

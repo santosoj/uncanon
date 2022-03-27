@@ -8,7 +8,7 @@ import {
   MAXINT32,
   PageURLField,
   PlainTextHTMLField,
-} from 'uncanon-types'
+} from '@uncanon/types'
 import { fileURLToPath } from 'url'
 import db from './store'
 const __filename = fileURLToPath(import.meta.url)

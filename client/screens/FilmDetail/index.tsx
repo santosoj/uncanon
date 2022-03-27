@@ -10,7 +10,7 @@ import ExternalLinkIcon from '../../graphics/external-link.png'
 import IMDBIcon from '../../graphics/imdb.png'
 import WikipediaIcon from '../../graphics/wikipedia.png'
 import getFilm from '../../graphql/getFilm.graphql'
-import { FilmResponse } from 'uncanon-types'
+import { FilmResponse } from '@uncanon/types'
 import { Box, Text, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 

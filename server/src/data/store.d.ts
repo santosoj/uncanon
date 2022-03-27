@@ -1,5 +1,5 @@
 import Datastore from 'nedb-promises';
-import { Director, Film } from 'uncanon-types';
+import { Director, Film } from '@uncanon/types';
 declare type ArrayElement<ArrayType extends readonly unknown[]> = ArrayType extends readonly (infer ElementType)[] ? ElementType : never;
 export interface OrderBy<T> {
     order?: ('asc' | 'desc')[];

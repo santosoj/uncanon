@@ -15,7 +15,7 @@ import {
   DirectorListItem,
   DirectorListResponse,
   MAXINT32,
-} from 'uncanon-types'
+} from '@uncanon/types'
 import { Box, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 
