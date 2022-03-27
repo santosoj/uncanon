@@ -49,5 +49,8 @@
     "nedb-promises": "^6.0.3",
     "sharp": "^0.30.3",
     "@uncanon/types": "^1.0.4"
+  },
+  "annotations": {
+    "pipelineTrigger": "aaaaa"
   }
 }

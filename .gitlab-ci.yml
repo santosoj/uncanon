@@ -1,5 +1,6 @@
 variables:
   CONTAINER_IMAGE: grp75/uncanon/server
+  KUBERNETES_AGENT: grp75/myprj:shamballagent
 
 stages:
   - build_server
@@ -22,3 +23,17 @@ build_server:
       --build-arg NPM_REGISTRY_AUTH_TOKEN
       .
     - docker push $CI_REGISTRY/$CONTAINER_IMAGE
+
+deploy_server:
+  image:
+    name: bitnami/kubectl:latest
+    entrypoint: [""] 
+  stage: deploy_server
+  rules:
+    - changes:
+      - server/**/*
+  script:
+    - kubectl config use-context $KUBERNETES_AGENT
+    - sed -i "s/<COMMIT_SHORT_SHA>/${CI_COMMIT_SHORT_SHA}/g" kubernetes/deployment.server.yaml
+    - grep commit_short_sha kubernetes/deployment.server.yaml
+    - kubectl apply -f kubernetes/deployment.server.yaml
