@@ -1,5 +1,7 @@
 import { StackScreenProps } from '@react-navigation/stack'
 import { useTheme } from '@shopify/restyle'
+import { DirectorListItem, DirectorListResponse } from '@uncanon/types'
+import { MAXINT32 } from '@uncanon/types/constants'
 import { useCallback, useState } from 'react'
 import { FlatList } from 'react-native'
 import { useQuery } from 'urql'
@@ -11,11 +13,6 @@ import {
   toggleSortDirections,
 } from '../../components/SortControl/sorting'
 import allDirectors from '../../graphql/getAllDirectors.graphql'
-import {
-  DirectorListItem,
-  DirectorListResponse,
-  MAXINT32,
-} from '@uncanon/types'
 import { Box, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 

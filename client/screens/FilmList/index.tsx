@@ -1,5 +1,6 @@
 import { StackScreenProps } from '@react-navigation/stack'
 import { useTheme } from '@shopify/restyle'
+import { FilmListItem, FilmListResponse } from '@uncanon/types'
 import { useCallback, useState } from 'react'
 import { FlatList } from 'react-native'
 import { useQuery } from 'urql'
@@ -11,7 +12,6 @@ import {
   toggleSortDirections,
 } from '../../components/SortControl/sorting'
 import allFilms from '../../graphql/getAllFilms.graphql'
-import { FilmListItem, FilmListResponse } from '@uncanon/types'
 import { Box, Theme } from '../../theme/restyle-theme'
 import { StackParamList } from '../types'
 

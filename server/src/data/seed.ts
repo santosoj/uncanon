@@ -1,10 +1,10 @@
 import {
   Director,
   Film,
-  MAXINT32,
   PageURLField,
   PlainTextHTMLField,
 } from '@uncanon/types'
+import { MAXINT32 } from '@uncanon/types/constants'
 import Axios, { AxiosInstance, AxiosResponse } from 'axios'
 import fs from 'fs'
 import path from 'path'

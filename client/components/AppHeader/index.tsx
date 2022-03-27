@@ -1,6 +1,5 @@
-import { Image, View } from 'react-native'
+import { Image } from 'react-native'
 import Logo from '../../graphics/logo.png'
-
 import { Box } from '../../theme/restyle-theme'
 
 function AppHeader({}) {

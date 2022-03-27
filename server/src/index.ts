@@ -1,3 +1,4 @@
+import { Director, Film } from '@uncanon/types'
 import apicache from 'apicache'
 import bodyParser from 'body-parser'
 import cors from 'cors'
@@ -6,7 +7,6 @@ import 'dotenv/config'
 import express, { Request, Response } from 'express'
 import { graphqlHTTP } from 'express-graphql'
 import { buildSchema } from 'graphql'
-import { Director, Film } from '@uncanon/types'
 import db, { OrderBy } from './data/store'
 import lexObject from './lexObject'
 
