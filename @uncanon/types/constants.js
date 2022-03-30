@@ -1,1 +1,5 @@
-export const MAXINT32 = 0x7fffffff
+const MAXINT32 = 0x7fffffff
+
+module.exports = {
+  MAXINT32
+}
