@@ -3149,10 +3149,10 @@
   dependencies:
     react-native-eva-icons "^1.3.1"
 
-"@uncanon/types@^1.0.4":
-  version "1.0.4"
-  resolved "https://gitlab.com/api/v4/projects/34834999/packages/npm/@uncanon/types/-/@uncanon/types-1.0.4.tgz#a992864e1e1560d211eeb1f5b34bf17b172acbee"
-  integrity sha1-qZKGTh4VYNIR7rH1s0vxexcqy+4=
+"@uncanon/types@^1.0.5":
+  version "1.0.5"
+  resolved "https://gitlab.com/api/v4/projects/34834999/packages/npm/@uncanon/types/-/@uncanon/types-1.0.5.tgz#65d50c42b7417243218d675c26e963da02d9d0cc"
+  integrity sha1-ZdUMQrdBckMhjWdcJulj2gLZ0Mw=
 
 "@urql/core@^2.4.3":
   version "2.4.3"

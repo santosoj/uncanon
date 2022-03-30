@@ -2872,5 +2872,1937 @@
     },
     "extract": "Joseph Frank \"Buster\" Keaton was an American actor, comedian and filmmaker. He is best known for his silent films, in which his trademark was physical comedy with a consistently stoic, deadpan expression that earned him the nickname \"The Great Stone Face\". Critic Roger Ebert wrote of Keaton's \"extraordinary period from 1920 to 1929\" when he \"worked without interruption\" as having made him \"the greatest actor-director in the history of the movies\". In 1996, Entertainment Weekly recognized Keaton as the seventh-greatest film director, and in 1999 the American Film Institute ranked him as the 21st-greatest male star of classic Hollywood cinema.",
     "extract_html": "<p><b>Joseph Frank</b> \"<b>Buster</b>\" <b>Keaton</b> was an American actor, comedian and filmmaker. He is best known for his silent films, in which his trademark was physical comedy with a consistently stoic, deadpan expression that earned him the nickname \"The Great Stone Face\". Critic Roger Ebert wrote of Keaton's \"extraordinary period from 1920 to 1929\" when he \"worked without interruption\" as having made him \"the greatest actor-director in the history of the movies\". In 1996, <i>Entertainment Weekly</i> recognized Keaton as the seventh-greatest film director, and in 1999 the American Film Institute ranked him as the 21st-greatest male star of classic Hollywood cinema.</p>"
+  },
+  "64": {
+    "type": "standard",
+    "title": "Alice Guy-Blaché",
+    "displaytitle": "Alice Guy-Blaché",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q263367",
+    "titles": {
+      "canonical": "Alice_Guy-Blaché",
+      "normalized": "Alice Guy-Blaché",
+      "display": "Alice Guy-Blaché"
+    },
+    "pageid": 1049954,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alice_Guy.jpg/227px-Alice_Guy.jpg",
+      "width": 227,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Alice_Guy.jpg",
+      "width": 1744,
+      "height": 2460
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1074338591",
+    "tid": "cb994c10-aafa-11ec-b652-4340dff87573",
+    "timestamp": "2022-02-27T19:02:41Z",
+    "description": "French film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9",
+        "revisions": "https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Guy-Blach%C3%A9"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Alice_Guy-Blach%C3%A9",
+        "edit": "https://en.m.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Alice_Guy-Blach%C3%A9"
+      }
+    },
+    "extract": "Alice Ida Antoinette Guy-Blaché was a French pioneer filmmaker. She was one of the first filmmakers to make a narrative fiction film, as well as the first woman to direct a film. From 1896 to 1906, she was probably the only female filmmaker in the world. She experimented with Gaumont's Chronophone sync-sound system, and with color-tinting, interracial casting, and special effects.",
+    "extract_html": "<p><b>Alice Ida Antoinette Guy-Blaché</b> was a French pioneer filmmaker. She was one of the first filmmakers to make a narrative fiction film, as well as the first woman to direct a film. From 1896 to 1906, she was probably the only female filmmaker in the world. She experimented with Gaumont's Chronophone sync-sound system, and with color-tinting, interracial casting, and special effects.</p>"
+  },
+  "65": {
+    "type": "standard",
+    "title": "Lois Weber",
+    "displaytitle": "Lois Weber",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q462440",
+    "titles": {
+      "canonical": "Lois_Weber",
+      "normalized": "Lois Weber",
+      "display": "Lois Weber"
+    },
+    "pageid": 3344431,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LoisWeber.jpg/249px-LoisWeber.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/LoisWeber.jpg",
+      "width": 389,
+      "height": 500
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1072829102",
+    "tid": "89042200-aafd-11ec-87b9-b7306a99b86f",
+    "timestamp": "2022-02-19T17:42:21Z",
+    "description": "American actress, film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lois_Weber",
+        "revisions": "https://en.wikipedia.org/wiki/Lois_Weber?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lois_Weber?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lois_Weber"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lois_Weber",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lois_Weber",
+        "edit": "https://en.m.wikipedia.org/wiki/Lois_Weber?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lois_Weber"
+      }
+    },
+    "extract": "Florence Lois Weber was an American silent film actress, screenwriter, producer and director. She is identified in some historical references as \"the most important female director the American film industry has known\", and among \"the most important and prolific film directors in the era of silent films\". Film historian Anthony Slide has also asserted, \"Along with D. W. Griffith, Weber was the American cinema's first genuine auteur, a filmmaker involved in all aspects of production and one who utilized the motion picture to put across her own ideas and philosophies\".",
+    "extract_html": "<p><b>Florence Lois Weber</b> was an American silent film actress, screenwriter, producer and director. She is identified in some historical references as \"the most important female director the American film industry has known\", and among \"the most important and prolific film directors in the era of silent films\". Film historian Anthony Slide has also asserted, \"Along with <span>D.<span class=\"nowrap\"> </span>W.<span class=\"nowrap\"> </span>Griffith</span>, Weber was the American cinema's first genuine auteur, a filmmaker involved in all aspects of production and one who utilized the motion picture to put across her own ideas and philosophies\".</p>"
+  },
+  "66": {
+    "type": "standard",
+    "title": "Lillian Gish",
+    "displaytitle": "Lillian Gish",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q104183",
+    "titles": {
+      "canonical": "Lillian_Gish",
+      "normalized": "Lillian Gish",
+      "display": "Lillian Gish"
+    },
+    "pageid": 197736,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lillian_Gish-edit1.jpg/248px-Lillian_Gish-edit1.jpg",
+      "width": 248,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Lillian_Gish-edit1.jpg",
+      "width": 2725,
+      "height": 3517
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079500010",
+    "tid": "01514d40-ad7f-11ec-a5b1-91473e10d617",
+    "timestamp": "2022-03-27T03:35:48Z",
+    "description": "American actress",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lillian_Gish",
+        "revisions": "https://en.wikipedia.org/wiki/Lillian_Gish?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lillian_Gish?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lillian_Gish"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lillian_Gish",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lillian_Gish",
+        "edit": "https://en.m.wikipedia.org/wiki/Lillian_Gish?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lillian_Gish"
+      }
+    },
+    "extract": "Lillian Diana Gish was an American actress, director and screenwriter. Her film acting career spanned 75 years, from 1912, in silent film shorts, to 1987. Gish was called \"The First Lady of American Cinema\", and is credited with pioneering fundamental film performance techniques. In 1999, the American Film Institute ranked Gish as the 17th greatest female movie star of classic Hollywood cinema.",
+    "extract_html": "<p><b>Lillian Diana Gish</b> was an American actress, director and screenwriter. Her film acting career spanned 75 years, from 1912, in silent film shorts, to 1987. Gish was called \"<b>The First Lady of American Cinema</b>\", and is credited with pioneering fundamental film performance techniques. In 1999, the American Film Institute ranked Gish as the 17th greatest female movie star of classic Hollywood cinema.</p>"
+  },
+  "67": {
+    "type": "standard",
+    "title": "Frances Marion",
+    "displaytitle": "Frances Marion",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q463883",
+    "titles": {
+      "canonical": "Frances_Marion",
+      "normalized": "Frances Marion",
+      "display": "Frances Marion"
+    },
+    "pageid": 1890119,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frances-Marion.jpg/213px-Frances-Marion.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Frances-Marion.jpg",
+      "width": 560,
+      "height": 840
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1073069815",
+    "tid": "4b0d2960-ae3b-11ec-8f80-49dc5ff537a5",
+    "timestamp": "2022-02-20T21:48:32Z",
+    "description": "American screenwriter, director, journalist and author",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Frances_Marion",
+        "revisions": "https://en.wikipedia.org/wiki/Frances_Marion?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Frances_Marion?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frances_Marion"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Frances_Marion",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Frances_Marion",
+        "edit": "https://en.m.wikipedia.org/wiki/Frances_Marion?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Frances_Marion"
+      }
+    },
+    "extract": "Frances Marion was an American screenwriter, director, journalist and author often cited as one of the most renowned female screenwriters of the 20th century alongside June Mathis and Anita Loos. During the course of her career, she wrote over 325 scripts. She was the first writer to win two Academy Awards. Marion began her film career working for filmmaker Lois Weber. She wrote numerous silent film scenarios for actress Mary Pickford, before transitioning to writing sound films.",
+    "extract_html": "<p><b>Frances Marion</b> was an American screenwriter, director, journalist and author often cited as one of the most renowned female screenwriters of the 20th century alongside June Mathis and Anita Loos. During the course of her career, she wrote over 325 scripts. She was the first writer to win two Academy Awards. Marion began her film career working for filmmaker Lois Weber. She wrote numerous silent film scenarios for actress Mary Pickford, before transitioning to writing sound films.</p>"
+  },
+  "68": {
+    "type": "standard",
+    "title": "Nell Shipman",
+    "displaytitle": "Nell Shipman",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3337906",
+    "titles": {
+      "canonical": "Nell_Shipman",
+      "normalized": "Nell Shipman",
+      "display": "Nell Shipman"
+    },
+    "pageid": 1419914,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nell_Shipman_Photoplay_Nov_1918.png/236px-Nell_Shipman_Photoplay_Nov_1918.png",
+      "width": 236,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Nell_Shipman_Photoplay_Nov_1918.png",
+      "width": 399,
+      "height": 540
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1070879207",
+    "tid": "66ef1320-aafb-11ec-955e-53c2fd9ff201",
+    "timestamp": "2022-02-09T19:06:28Z",
+    "description": "Canadian actress",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nell_Shipman",
+        "revisions": "https://en.wikipedia.org/wiki/Nell_Shipman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nell_Shipman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nell_Shipman"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Nell_Shipman",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nell_Shipman",
+        "edit": "https://en.m.wikipedia.org/wiki/Nell_Shipman?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Nell_Shipman"
+      }
+    },
+    "extract": "Nell Shipman was a Canadian actress, author, screenwriter, producer, director, animal rights activist and animal trainer. Her works often had autobiographical elements to them and reflected her passion for nature. She is best known for her work in adventure films adapted from the novels of American writer, James Oliver Curwood.",
+    "extract_html": "<p><b>Nell Shipman</b> was a Canadian actress, author, screenwriter, producer, director, animal rights activist and animal trainer. Her works often had autobiographical elements to them and reflected her passion for nature. She is best known for her work in adventure films adapted from the novels of American writer, James Oliver Curwood.</p>"
+  },
+  "69": {
+    "type": "standard",
+    "title": "Dorothy Davenport",
+    "displaytitle": "Dorothy Davenport",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q2473293",
+    "titles": {
+      "canonical": "Dorothy_Davenport",
+      "normalized": "Dorothy Davenport",
+      "display": "Dorothy Davenport"
+    },
+    "pageid": 3968606,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mrs_Reid_Wallace%2C_film_actress_%28SAYRE_8587%29_%28cropped%29.jpg/252px-Mrs_Reid_Wallace%2C_film_actress_%28SAYRE_8587%29_%28cropped%29.jpg",
+      "width": 252,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mrs_Reid_Wallace%2C_film_actress_%28SAYRE_8587%29_%28cropped%29.jpg",
+      "width": 499,
+      "height": 633
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1054440184",
+    "tid": "07dd9520-aafe-11ec-8184-9324674c58a8",
+    "timestamp": "2021-11-10T01:52:20Z",
+    "description": "American actress (1895–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Davenport",
+        "revisions": "https://en.wikipedia.org/wiki/Dorothy_Davenport?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Davenport?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Davenport"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Dorothy_Davenport",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dorothy_Davenport",
+        "edit": "https://en.m.wikipedia.org/wiki/Dorothy_Davenport?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Dorothy_Davenport"
+      }
+    },
+    "extract": "Fannie Dorothy Davenport was an American actress, screenwriter, film director, and producer.",
+    "extract_html": "<p><b>Fannie Dorothy Davenport</b> was an American actress, screenwriter, film director, and producer.</p>"
+  },
+  "70": {
+    "type": "standard",
+    "title": "Dorothy Arzner",
+    "displaytitle": "Dorothy Arzner",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q447847",
+    "titles": {
+      "canonical": "Dorothy_Arzner",
+      "normalized": "Dorothy Arzner",
+      "display": "Dorothy Arzner"
+    },
+    "pageid": 1966544,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dorothy_Arzner.jpg/220px-Dorothy_Arzner.jpg",
+      "width": 220,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dorothy_Arzner.jpg",
+      "width": 617,
+      "height": 895
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1076673731",
+    "tid": "17b4fb20-aafc-11ec-b335-27940c09001c",
+    "timestamp": "2022-03-12T10:06:35Z",
+    "description": "American film director and film editor",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Arzner",
+        "revisions": "https://en.wikipedia.org/wiki/Dorothy_Arzner?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Arzner?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Arzner"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Dorothy_Arzner",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dorothy_Arzner",
+        "edit": "https://en.m.wikipedia.org/wiki/Dorothy_Arzner?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Dorothy_Arzner"
+      }
+    },
+    "extract": "Dorothy Emma Arzner was an American film director whose career in Hollywood spanned from the silent era of the 1920s into the early 1940s. From 1927 until her retirement from feature directing in 1943, Arzner was the only female director working in Hollywood. Additionally, she was one of a very few women able to establish a successful and long career in Hollywood as a film director until the 1970s. Arzner made a total of twenty films between 1927 and 1943 and launched the careers of a number of Hollywood actresses, including Katharine Hepburn, Rosalind Russell, and Lucille Ball. Additionally, Arzner was the first woman to join the Directors Guild of America and the first woman to direct a sound film.",
+    "extract_html": "<p><b>Dorothy Emma Arzner</b> was an American film director whose career in Hollywood spanned from the silent era of the 1920s into the early 1940s. From 1927 until her retirement from feature directing in 1943, Arzner was the only female director working in Hollywood. Additionally, she was one of a very few women able to establish a successful and long career in Hollywood as a film director until the 1970s. Arzner made a total of twenty films between 1927 and 1943 and launched the careers of a number of Hollywood actresses, including Katharine Hepburn, Rosalind Russell, and Lucille Ball. Additionally, Arzner was the first woman to join the Directors Guild of America and the first woman to direct a sound film.</p>"
+  },
+  "71": {
+    "type": "standard",
+    "title": "Ida Lupino",
+    "displaytitle": "Ida Lupino",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q148669",
+    "titles": {
+      "canonical": "Ida_Lupino",
+      "normalized": "Ida Lupino",
+      "display": "Ida Lupino"
+    },
+    "pageid": 460446,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ida_Lupino_Cavalcade_of_America.JPG/252px-Ida_Lupino_Cavalcade_of_America.JPG",
+      "width": 252,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ida_Lupino_Cavalcade_of_America.JPG",
+      "width": 1047,
+      "height": 1330
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079343510",
+    "tid": "16be5e00-acdc-11ec-ad18-39df436363a6",
+    "timestamp": "2022-03-26T08:09:36Z",
+    "description": "British/American actress (1918–1995)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ida_Lupino",
+        "revisions": "https://en.wikipedia.org/wiki/Ida_Lupino?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ida_Lupino?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ida_Lupino"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Ida_Lupino",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ida_Lupino",
+        "edit": "https://en.m.wikipedia.org/wiki/Ida_Lupino?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Ida_Lupino"
+      }
+    },
+    "extract": "Ida Lupino was an English-American actress, singer, director, and producer. Throughout her 48-year career, she appeared in 59 films and directed eight, working primarily in the United States, where she became a citizen in 1948.",
+    "extract_html": "<p><b>Ida Lupino</b> was an English-American actress, singer, director, and producer. Throughout her 48-year career, she appeared in 59 films and directed eight, working primarily in the United States, where she became a citizen in 1948.</p>"
+  },
+  "72": {
+    "type": "standard",
+    "title": "Shirley Clarke",
+    "displaytitle": "Shirley Clarke",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q774517",
+    "titles": {
+      "canonical": "Shirley_Clarke",
+      "normalized": "Shirley Clarke",
+      "display": "Shirley Clarke"
+    },
+    "pageid": 2809158,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/9e/Shirley_Clarke.jpg",
+      "width": 220,
+      "height": 290
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/9e/Shirley_Clarke.jpg",
+      "width": 220,
+      "height": 290
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1046756999",
+    "tid": "06aece90-aafd-11ec-9912-a758790f5ae1",
+    "timestamp": "2021-09-27T08:30:31Z",
+    "description": "American filmmaker",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Shirley_Clarke",
+        "revisions": "https://en.wikipedia.org/wiki/Shirley_Clarke?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Shirley_Clarke?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shirley_Clarke"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Shirley_Clarke",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Shirley_Clarke",
+        "edit": "https://en.m.wikipedia.org/wiki/Shirley_Clarke?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Shirley_Clarke"
+      }
+    },
+    "extract": "Shirley Clarke was an American filmmaker.",
+    "extract_html": "<p><b>Shirley Clarke</b> was an American filmmaker.</p>"
+  },
+  "73": {
+    "type": "standard",
+    "title": "Juleen Compton",
+    "displaytitle": "Juleen Compton",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q52450699",
+    "titles": {
+      "canonical": "Juleen_Compton",
+      "normalized": "Juleen Compton",
+      "display": "Juleen Compton"
+    },
+    "pageid": 56942092,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1063269152",
+    "tid": "64101370-ab19-11ec-8301-8306937635fb",
+    "timestamp": "2022-01-02T03:13:01Z",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Juleen_Compton",
+        "revisions": "https://en.wikipedia.org/wiki/Juleen_Compton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Juleen_Compton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Juleen_Compton"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Juleen_Compton",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Juleen_Compton",
+        "edit": "https://en.m.wikipedia.org/wiki/Juleen_Compton?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Juleen_Compton"
+      }
+    },
+    "extract": "Juleen Compton was an American independent filmmaker, writer, and actor. She is best known for Stranded (1965) and The Plastic Dome of Norma Jean (1966), which she wrote, directed, and financed. She also starred in and distributed Stranded.",
+    "extract_html": "<p><b>Juleen Compton</b> was an American independent filmmaker, writer, and actor. She is best known for <i>Stranded</i> (1965) and <i>The Plastic Dome of Norma Jean</i> (1966), which she wrote, directed, and financed. She also starred in and distributed <i>Stranded</i>.</p>"
+  },
+  "74": {
+    "type": "standard",
+    "title": "Barbara Loden",
+    "displaytitle": "Barbara Loden",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q442111",
+    "titles": {
+      "canonical": "Barbara_Loden",
+      "normalized": "Barbara Loden",
+      "display": "Barbara Loden"
+    },
+    "pageid": 6759437,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Barbara_Loden_in_1964.jpg/257px-Barbara_Loden_in_1964.jpg",
+      "width": 257,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Barbara_Loden_in_1964.jpg",
+      "width": 1044,
+      "height": 1301
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1072129494",
+    "tid": "ed95c280-aaff-11ec-bb5f-41855bfc7e99",
+    "timestamp": "2022-02-16T03:38:10Z",
+    "description": "American actress and film and stage director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Barbara_Loden",
+        "revisions": "https://en.wikipedia.org/wiki/Barbara_Loden?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Barbara_Loden?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Barbara_Loden"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Barbara_Loden",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Barbara_Loden",
+        "edit": "https://en.m.wikipedia.org/wiki/Barbara_Loden?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Barbara_Loden"
+      }
+    },
+    "extract": "Barbara Ann Loden was an American actress and director of film and theater. Richard Brody of The New Yorker described Loden as the \"female\ncounterpart to John Cassavetes\".",
+    "extract_html": "<p><b>Barbara Ann Loden</b> was an American actress and director of film and theater. Richard Brody of <i>The New Yorker</i> described Loden as the \"female\ncounterpart to John Cassavetes\".</p>"
+  },
+  "75": {
+    "type": "standard",
+    "title": "Barbara Peeters",
+    "displaytitle": "Barbara Peeters",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q4859217",
+    "titles": {
+      "canonical": "Barbara_Peeters",
+      "normalized": "Barbara Peeters",
+      "display": "Barbara Peeters"
+    },
+    "pageid": 6817370,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075311664",
+    "tid": "f6766760-aaff-11ec-bb5f-41855bfc7e99",
+    "timestamp": "2022-03-05T02:21:27Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Barbara_Peeters",
+        "revisions": "https://en.wikipedia.org/wiki/Barbara_Peeters?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Barbara_Peeters?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Barbara_Peeters"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Barbara_Peeters",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Barbara_Peeters",
+        "edit": "https://en.m.wikipedia.org/wiki/Barbara_Peeters?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Barbara_Peeters"
+      }
+    },
+    "extract": "Barbara Peeters, also known as Barbara Peters, is an American director and screenwriter of television and film. She is best known for her collaborations with producer-director Roger Corman on films such as Humanoids from the Deep, and directing episodes of television shows such as Remington Steele.",
+    "extract_html": "<p><b>Barbara Peeters</b>, also known as <b>Barbara Peters</b>, is an American director and screenwriter of television and film. She is best known for her collaborations with producer-director Roger Corman on films such as <i>Humanoids from the Deep</i>, and directing episodes of television shows such as <i>Remington Steele</i>.</p>"
+  },
+  "76": {
+    "type": "standard",
+    "title": "Stephanie Rothman",
+    "displaytitle": "Stephanie Rothman",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q1463322",
+    "titles": {
+      "canonical": "Stephanie_Rothman",
+      "normalized": "Stephanie Rothman",
+      "display": "Stephanie Rothman"
+    },
+    "pageid": 6814968,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075319599",
+    "tid": "f5e6aa80-aaff-11ec-b6a1-37f0d7476052",
+    "timestamp": "2022-03-05T03:16:32Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Stephanie_Rothman",
+        "revisions": "https://en.wikipedia.org/wiki/Stephanie_Rothman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Stephanie_Rothman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Stephanie_Rothman"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Stephanie_Rothman",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Stephanie_Rothman",
+        "edit": "https://en.m.wikipedia.org/wiki/Stephanie_Rothman?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Stephanie_Rothman"
+      }
+    },
+    "extract": "\nStephanie Rothman is an American film director, producer, and screenwriter, known for her low-budget independent exploitation films made in the 1960s and 1970s, especially The Student Nurses (1970) and Terminal Island (1974).",
+    "extract_html": "<p>\n<b>Stephanie Rothman</b> is an American film director, producer, and screenwriter, known for her low-budget independent exploitation films made in the 1960s and 1970s, especially <i>The Student Nurses</i> (1970) and <i>Terminal Island</i> (1974).</p>"
+  },
+  "77": {
+    "type": "standard",
+    "title": "Elaine May",
+    "displaytitle": "Elaine May",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q454156",
+    "titles": {
+      "canonical": "Elaine_May",
+      "normalized": "Elaine May",
+      "display": "Elaine May"
+    },
+    "pageid": 574391,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Elaine_May_-_publicity1.jpg/254px-Elaine_May_-_publicity1.jpg",
+      "width": 254,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Elaine_May_-_publicity1.jpg",
+      "width": 389,
+      "height": 490
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079449753",
+    "tid": "9f769790-ad49-11ec-9d10-37202f997f5a",
+    "timestamp": "2022-03-26T21:13:40Z",
+    "description": "American screenwriter, film director, actress, and comedian",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Elaine_May",
+        "revisions": "https://en.wikipedia.org/wiki/Elaine_May?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Elaine_May?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elaine_May"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Elaine_May",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Elaine_May",
+        "edit": "https://en.m.wikipedia.org/wiki/Elaine_May?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Elaine_May"
+      }
+    },
+    "extract": "Elaine Iva May is an American comedian, film director, screenwriter, playwright, and actress. She made her initial impact in the 1950s with her improvisational comedy routines with Mike Nichols, performing as Nichols and May.",
+    "extract_html": "<p><b>Elaine Iva May</b> is an American comedian, film director, screenwriter, playwright, and actress. She made her initial impact in the 1950s with her improvisational comedy routines with Mike Nichols, performing as Nichols and May.</p>"
+  },
+  "78": {
+    "type": "disambiguation",
+    "title": "Penny Allen",
+    "displaytitle": "Penny Allen",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q38575373",
+    "titles": {
+      "canonical": "Penny_Allen",
+      "normalized": "Penny Allen",
+      "display": "Penny Allen"
+    },
+    "pageid": 20916342,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "901811128",
+    "tid": "d28940c0-79b3-11ec-bdab-2579c46beff5",
+    "timestamp": "2019-06-14T12:33:13Z",
+    "description": "Topics referred to by the same term",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Penny_Allen",
+        "revisions": "https://en.wikipedia.org/wiki/Penny_Allen?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Penny_Allen?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Penny_Allen"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Penny_Allen",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Penny_Allen",
+        "edit": "https://en.m.wikipedia.org/wiki/Penny_Allen?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Penny_Allen"
+      }
+    },
+    "extract": "Penny Allen can refer to:Penelope Allen, American actress\n",
+    "extract_html": "<p><b>Penny Allen</b> can refer to:</p><ul><li>Penelope Allen, American actress</li></ul>\n"
+  },
+  "79": {
+    "type": "standard",
+    "title": "Claudia Weill",
+    "displaytitle": "Claudia Weill",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q5129279",
+    "titles": {
+      "canonical": "Claudia_Weill",
+      "normalized": "Claudia Weill",
+      "display": "Claudia Weill"
+    },
+    "pageid": 2065067,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Claudia_Weill_for_Make_it_Fair.jpg/320px-Claudia_Weill_for_Make_it_Fair.jpg",
+      "width": 320,
+      "height": 212
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Claudia_Weill_for_Make_it_Fair.jpg",
+      "width": 1086,
+      "height": 720
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1060953730",
+    "tid": "35afb1b0-aafc-11ec-a491-29a94e09ab1e",
+    "timestamp": "2021-12-18T18:27:13Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Claudia_Weill",
+        "revisions": "https://en.wikipedia.org/wiki/Claudia_Weill?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Claudia_Weill?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Claudia_Weill"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Claudia_Weill",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Claudia_Weill",
+        "edit": "https://en.m.wikipedia.org/wiki/Claudia_Weill?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Claudia_Weill"
+      }
+    },
+    "extract": "Claudia Weill is an American film director best known for her film Girlfriends (1978), starring Melanie Mayron, Christopher Guest, Bob Balaban and Eli Wallach, made independently and sold to Warner Brothers after multiple awards at Cannes, Filmex and Sundance. In 2019, Girlfriends was selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\".",
+    "extract_html": "<p><b>Claudia Weill</b> is an American film director best known for her film <i>Girlfriends</i> (1978), starring Melanie Mayron, Christopher Guest, Bob Balaban and Eli Wallach, made independently and sold to Warner Brothers after multiple awards at Cannes, Filmex and Sundance. In 2019, <i>Girlfriends</i> was selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\".</p>"
+  },
+  "80": {
+    "type": "standard",
+    "title": "Joan Tewkesbury",
+    "displaytitle": "Joan Tewkesbury",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q6205491",
+    "titles": {
+      "canonical": "Joan_Tewkesbury",
+      "normalized": "Joan Tewkesbury",
+      "display": "Joan Tewkesbury"
+    },
+    "pageid": 6760676,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1074594265",
+    "tid": "ed8b3b30-aaff-11ec-a376-4b842ed6b61b",
+    "timestamp": "2022-03-01T02:26:56Z",
+    "description": "American actress",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Joan_Tewkesbury",
+        "revisions": "https://en.wikipedia.org/wiki/Joan_Tewkesbury?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Joan_Tewkesbury?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joan_Tewkesbury"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Joan_Tewkesbury",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Joan_Tewkesbury",
+        "edit": "https://en.m.wikipedia.org/wiki/Joan_Tewkesbury?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Joan_Tewkesbury"
+      }
+    },
+    "extract": "Joan Tewkesbury is an American film and television director, writer, producer, choreographer and actress. She had a long association with the celebrated director Robert Altman, writing the screenplays for Thieves Like Us (1974), and Nashville (1975), widely regarded as \"Altman's masterpiece\", and which earned her a nomination for the BAFTA Award for Best Screenplay.",
+    "extract_html": "<p><b>Joan Tewkesbury</b> is an American film and television director, writer, producer, choreographer and actress. She had a long association with the celebrated director Robert Altman, writing the screenplays for <i>Thieves Like Us</i> (1974), and <i>Nashville</i> (1975), widely regarded as \"Altman's masterpiece\", and which earned her a nomination for the BAFTA Award for Best Screenplay.</p>"
+  },
+  "81": {
+    "type": "standard",
+    "title": "Anne Bancroft",
+    "displaytitle": "Anne Bancroft",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q183532",
+    "titles": {
+      "canonical": "Anne_Bancroft",
+      "normalized": "Anne Bancroft",
+      "display": "Anne Bancroft"
+    },
+    "pageid": 206724,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anne_Bancroft_1952.jpg/256px-Anne_Bancroft_1952.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Anne_Bancroft_1952.jpg",
+      "width": 4604,
+      "height": 5756
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079751420",
+    "tid": "18646160-ae93-11ec-869d-3540922c7c10",
+    "timestamp": "2022-03-28T12:32:07Z",
+    "description": "American actress (1931–2005)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Anne_Bancroft",
+        "revisions": "https://en.wikipedia.org/wiki/Anne_Bancroft?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Anne_Bancroft?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Anne_Bancroft"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Anne_Bancroft",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Anne_Bancroft",
+        "edit": "https://en.m.wikipedia.org/wiki/Anne_Bancroft?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Anne_Bancroft"
+      }
+    },
+    "extract": "Anne Bancroft was an American actress. Respected for her acting prowess and versatility, Bancroft received an Academy Award, three BAFTA Awards, two Golden Globe Awards, two Tony Awards, and two Primetime Emmy Awards. She is one of only 24 thespians to achieve the Triple Crown of Acting.",
+    "extract_html": "<p><b>Anne Bancroft</b> was an American actress. Respected for her acting prowess and versatility, Bancroft received an Academy Award, three BAFTA Awards, two Golden Globe Awards, two Tony Awards, and two Primetime Emmy Awards. She is one of only 24 thespians to achieve the Triple Crown of Acting.</p>"
+  },
+  "82": {
+    "type": "standard",
+    "title": "Lee Grant",
+    "displaytitle": "Lee Grant",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q230184",
+    "titles": {
+      "canonical": "Lee_Grant",
+      "normalized": "Lee Grant",
+      "display": "Lee Grant"
+    },
+    "pageid": 768141,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lee_Grant_1967.jpg/259px-Lee_Grant_1967.jpg",
+      "width": 259,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lee_Grant_1967.jpg",
+      "width": 709,
+      "height": 875
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1080115077",
+    "tid": "3151b780-b01a-11ec-a71f-f706efc5b5e8",
+    "timestamp": "2022-03-30T11:11:44Z",
+    "description": "American actress and director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lee_Grant",
+        "revisions": "https://en.wikipedia.org/wiki/Lee_Grant?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lee_Grant?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lee_Grant"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lee_Grant",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lee_Grant",
+        "edit": "https://en.m.wikipedia.org/wiki/Lee_Grant?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lee_Grant"
+      }
+    },
+    "extract": "Lee Grant is an American actress, documentarian, and director. She made her film debut in 1951 as a young shoplifter in William Wyler's Detective Story, co-starring Kirk Douglas and Eleanor Parker. This role earned her an Oscar nomination for Best Supporting Actress as well as the Best Actress Award at the 1952 Cannes Film Festival.",
+    "extract_html": "<p><b>Lee Grant</b> is an American actress, documentarian, and director. She made her film debut in 1951 as a young shoplifter in William Wyler's <i>Detective Story</i>, co-starring Kirk Douglas and Eleanor Parker. This role earned her an Oscar nomination for Best Supporting Actress as well as the Best Actress Award at the 1952 Cannes Film Festival.</p>"
+  },
+  "83": {
+    "type": "standard",
+    "title": "Jessie Maple",
+    "displaytitle": "Jessie Maple",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q22279039",
+    "titles": {
+      "canonical": "Jessie_Maple",
+      "normalized": "Jessie Maple",
+      "display": "Jessie Maple"
+    },
+    "pageid": 49168448,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1060577889",
+    "tid": "caef3520-ab15-11ec-b380-c122aa4089f7",
+    "timestamp": "2021-12-16T10:58:45Z",
+    "description": "American cinematographer and film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jessie_Maple",
+        "revisions": "https://en.wikipedia.org/wiki/Jessie_Maple?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jessie_Maple?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jessie_Maple"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Jessie_Maple",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jessie_Maple",
+        "edit": "https://en.m.wikipedia.org/wiki/Jessie_Maple?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Jessie_Maple"
+      }
+    },
+    "extract": "Jessie Maple is an American cinematographer and film director most noted as a pioneer for the civil rights of African-Americans and women in the film industry. Her 1981 film Will was one of the first feature-length dramatic films created by an African-American woman.\"",
+    "extract_html": "<p><b>Jessie Maple</b> is an American cinematographer and film director most noted as a pioneer for the civil rights of African-Americans and women in the film industry. Her 1981 film <i>Will</i> was one of the first feature-length dramatic films created by an African-American woman.\"</p>"
+  },
+  "84": {
+    "type": "standard",
+    "title": "Kathleen Collins",
+    "displaytitle": "Kathleen Collins",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q6376685",
+    "titles": {
+      "canonical": "Kathleen_Collins",
+      "normalized": "Kathleen Collins",
+      "display": "Kathleen Collins"
+    },
+    "pageid": 36854851,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079011527",
+    "tid": "d655f090-ab81-11ec-add5-2f8af22aad18",
+    "timestamp": "2022-03-24T14:51:04Z",
+    "description": "American dramatist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Kathleen_Collins",
+        "revisions": "https://en.wikipedia.org/wiki/Kathleen_Collins?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Kathleen_Collins?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Kathleen_Collins"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Kathleen_Collins",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Kathleen_Collins",
+        "edit": "https://en.m.wikipedia.org/wiki/Kathleen_Collins?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Kathleen_Collins"
+      }
+    },
+    "extract": "Kathleen Collins was an African-American poet, playwright, writer, filmmaker, director, civil rights activist, and educator from Jersey City, New Jersey. Her two feature narratives—The Cruz Brothers and Miss Malloy (1980) and Losing Ground (1982)—furthered the range of Black women's films. Although Losing Ground was denied large-scale exhibition, it was among the first films created by a Black woman deliberately designed to tell a story intended for popular consumption, with a feature-length narrative structure. Collins thus paved the way for Julie Dash's Daughters of the Dust (1991) to become the first feature-length narrative film created by a Black woman to be placed in commercial distribution. Influenced by Lorraine Hansberry, she wrote about \"African Americans as human subjects and not as mere race subjects\" [emphasis in the original].",
+    "extract_html": "<p><b>Kathleen Collins</b> was an African-American poet, playwright, writer, filmmaker, director, civil rights activist, and educator from Jersey City, New Jersey. Her two feature narratives—<i>The Cruz Brothers and Miss Malloy</i> (1980) and <i>Losing Ground</i> (1982)—furthered the range of Black women's films. Although <i>Losing Ground</i> was denied large-scale exhibition, it was among the first films created by a Black woman deliberately designed to tell a story intended for popular consumption, with a feature-length narrative structure. Collins thus paved the way for Julie Dash's <i>Daughters of the Dust</i> (1991) to become the first feature-length narrative film created by a Black woman to be placed in commercial distribution. Influenced by Lorraine Hansberry, she wrote about \"African Americans as human subjects and not as mere <b>race</b> subjects\" [emphasis in the original].</p>"
+  },
+  "85": {
+    "type": "standard",
+    "title": "Lizzie Borden",
+    "displaytitle": "Lizzie Borden",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q240496",
+    "titles": {
+      "canonical": "Lizzie_Borden",
+      "normalized": "Lizzie Borden",
+      "display": "Lizzie Borden"
+    },
+    "pageid": 214796,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lizzie_borden.jpg/208px-Lizzie_borden.jpg",
+      "width": 208,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lizzie_borden.jpg",
+      "width": 398,
+      "height": 611
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1078919386",
+    "tid": "53d52720-ab0f-11ec-80d6-578d8f55b7ae",
+    "timestamp": "2022-03-24T01:11:17Z",
+    "description": "American murder suspect (1860–1927)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lizzie_Borden",
+        "revisions": "https://en.wikipedia.org/wiki/Lizzie_Borden?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lizzie_Borden?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lizzie_Borden"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lizzie_Borden",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lizzie_Borden",
+        "edit": "https://en.m.wikipedia.org/wiki/Lizzie_Borden?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lizzie_Borden"
+      }
+    },
+    "extract": "Lizzie Andrew Borden was an American woman tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister, Emma.",
+    "extract_html": "<p><b>Lizzie Andrew Borden</b> was an American woman tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister, Emma.</p>"
+  },
+  "86": {
+    "type": "standard",
+    "title": "Lynne Littman",
+    "displaytitle": "Lynne Littman",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3736945",
+    "titles": {
+      "canonical": "Lynne_Littman",
+      "normalized": "Lynne Littman",
+      "display": "Lynne Littman"
+    },
+    "pageid": 620827,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1067810144",
+    "tid": "0bfb7ea0-aafa-11ec-9c03-d5341ce4df4d",
+    "timestamp": "2022-01-25T08:03:52Z",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lynne_Littman",
+        "revisions": "https://en.wikipedia.org/wiki/Lynne_Littman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lynne_Littman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lynne_Littman"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lynne_Littman",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lynne_Littman",
+        "edit": "https://en.m.wikipedia.org/wiki/Lynne_Littman?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lynne_Littman"
+      }
+    },
+    "extract": "Lynne Littman is an American film and television director and producer.",
+    "extract_html": "<p><b>Lynne Littman</b> is an American film and television director and producer.</p>"
+  },
+  "87": {
+    "type": "standard",
+    "title": "Penelope Spheeris",
+    "displaytitle": "Penelope Spheeris",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q441578",
+    "titles": {
+      "canonical": "Penelope_Spheeris",
+      "normalized": "Penelope Spheeris",
+      "display": "Penelope Spheeris"
+    },
+    "pageid": 192152,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Penelope_Spheeris.jpg/213px-Penelope_Spheeris.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Penelope_Spheeris.jpg",
+      "width": 557,
+      "height": 838
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1074953211",
+    "tid": "dd769430-aaf8-11ec-9bb5-4f2f041c6146",
+    "timestamp": "2022-03-03T02:41:46Z",
+    "description": "American film director and producer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Penelope_Spheeris",
+        "revisions": "https://en.wikipedia.org/wiki/Penelope_Spheeris?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Penelope_Spheeris?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Penelope_Spheeris"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Penelope_Spheeris",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Penelope_Spheeris",
+        "edit": "https://en.m.wikipedia.org/wiki/Penelope_Spheeris?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Penelope_Spheeris"
+      }
+    },
+    "extract": "Penelope Spheeris is an American film director, producer, and screenwriter. She has directed both documentary and scripted films. Her best-known works include the trilogy titled The Decline of Western Civilization, each covering an aspect of Los Angeles underground culture, and Wayne's World, her highest-grossing film.",
+    "extract_html": "<p><b>Penelope Spheeris</b> is an American film director, producer, and screenwriter. She has directed both documentary and scripted films. Her best-known works include the trilogy titled <i>The Decline of Western Civilization</i>, each covering an aspect of Los Angeles underground culture, and <i>Wayne's World</i>, her highest-grossing film.</p>"
+  },
+  "88": {
+    "type": "standard",
+    "title": "Zelda Barron",
+    "displaytitle": "Zelda Barron",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q57725813",
+    "titles": {
+      "canonical": "Zelda_Barron",
+      "normalized": "Zelda Barron",
+      "display": "Zelda Barron"
+    },
+    "pageid": 58841391,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1023113269",
+    "tid": "88c5b340-ab1a-11ec-b29a-897e4b31b14f",
+    "timestamp": "2021-05-14T12:59:02Z",
+    "description": "British director, screenwriter, and producer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Zelda_Barron",
+        "revisions": "https://en.wikipedia.org/wiki/Zelda_Barron?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Zelda_Barron?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Zelda_Barron"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Zelda_Barron",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Zelda_Barron",
+        "edit": "https://en.m.wikipedia.org/wiki/Zelda_Barron?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Zelda_Barron"
+      }
+    },
+    "extract": "Zelda Barron was a British director, screenwriter, and producer known for films like Shag, Secret Places, and The Bulldance.",
+    "extract_html": "<p><b>Zelda Barron</b> was a British director, screenwriter, and producer known for films like <span><i>Shag</i></span>, <i>Secret Places</i>, and <i>The Bulldance</i>.</p>"
+  },
+  "89": {
+    "type": "standard",
+    "title": "Joyce Chopra",
+    "displaytitle": "Joyce Chopra",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q511101",
+    "titles": {
+      "canonical": "Joyce_Chopra",
+      "normalized": "Joyce Chopra",
+      "display": "Joyce Chopra"
+    },
+    "pageid": 6710936,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075316077",
+    "tid": "e3b9f4c0-aaff-11ec-9164-dba29db20aae",
+    "timestamp": "2022-03-05T02:54:58Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Joyce_Chopra",
+        "revisions": "https://en.wikipedia.org/wiki/Joyce_Chopra?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Joyce_Chopra?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joyce_Chopra"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Joyce_Chopra",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Joyce_Chopra",
+        "edit": "https://en.m.wikipedia.org/wiki/Joyce_Chopra?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Joyce_Chopra"
+      }
+    },
+    "extract": "Joyce Chopra is an American director and writer of feature films and television. Chopra graduated from Brandeis University in Waltham, Massachusetts. Chopra was married to American stage and screenwriter Tom Cole until he died on February 23, 2009.",
+    "extract_html": "<p><b>Joyce Chopra</b> is an American director and writer of feature films and television. Chopra graduated from Brandeis University in Waltham, Massachusetts. Chopra was married to American stage and screenwriter Tom Cole until he died on February 23, 2009.</p>"
+  },
+  "90": {
+    "type": "standard",
+    "title": "Donna Deitch",
+    "displaytitle": "Donna Deitch",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q5296333",
+    "titles": {
+      "canonical": "Donna_Deitch",
+      "normalized": "Donna Deitch",
+      "display": "Donna Deitch"
+    },
+    "pageid": 6141816,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1062443676",
+    "tid": "9366c110-aaff-11ec-a1ce-bddf6c5a25b0",
+    "timestamp": "2021-12-28T13:56:59Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Donna_Deitch",
+        "revisions": "https://en.wikipedia.org/wiki/Donna_Deitch?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Donna_Deitch?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Donna_Deitch"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Donna_Deitch",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Donna_Deitch",
+        "edit": "https://en.m.wikipedia.org/wiki/Donna_Deitch?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Donna_Deitch"
+      }
+    },
+    "extract": "Donna Deitch is an American film and television director, producer, and writer best known for her 1985 film Desert Hearts. The movie was the first feature film to depict a lesbian love story in a generally mainstream vein, with positive and respectful themes.",
+    "extract_html": "<p><b>Donna Deitch</b> is an American film and television director, producer, and writer best known for her 1985 film <i>Desert Hearts</i>. The movie was the first feature film to depict a lesbian love story in a generally mainstream vein, with positive and respectful themes.</p>"
+  },
+  "91": {
+    "type": "standard",
+    "title": "Randa Haines",
+    "displaytitle": "Randa Haines",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q2536001",
+    "titles": {
+      "canonical": "Randa_Haines",
+      "normalized": "Randa Haines",
+      "display": "Randa Haines"
+    },
+    "pageid": 6759909,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075339538",
+    "tid": "ed4a61a0-aaff-11ec-8590-9bea46685133",
+    "timestamp": "2022-03-05T05:52:56Z",
+    "description": "American film producer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Randa_Haines",
+        "revisions": "https://en.wikipedia.org/wiki/Randa_Haines?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Randa_Haines?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Randa_Haines"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Randa_Haines",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Randa_Haines",
+        "edit": "https://en.m.wikipedia.org/wiki/Randa_Haines?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Randa_Haines"
+      }
+    },
+    "extract": "Randa Jo Haines is a film and television director and producer. Haines started her career as a script supervisor on several low-budget features in the 1970s, including Let's Scare Jessica to Death and The Groove Tube. She is perhaps most famous for directing the critically acclaimed feature film Children of a Lesser God (1986), which starred William Hurt and Marlee Matlin, for which Matlin won the 1987 Academy Award as Best Actress. Haines also won the Silver Bear at the 37th Berlin International Film Festival. In 1989 she was a member of the jury at the 39th Berlin International Film Festival. In 2002 she was a member of the jury at the 24th Moscow International Film Festival.",
+    "extract_html": "<p><b>Randa Jo Haines</b> is a film and television director and producer. Haines started her career as a script supervisor on several low-budget features in the 1970s, including <i>Let's Scare Jessica to Death</i> and <i>The Groove Tube</i>. She is perhaps most famous for directing the critically acclaimed feature film <i>Children of a Lesser God</i> (1986), which starred William Hurt and Marlee Matlin, for which Matlin won the 1987 Academy Award as Best Actress. Haines also won the Silver Bear at the 37th Berlin International Film Festival. In 1989 she was a member of the jury at the 39th Berlin International Film Festival. In 2002 she was a member of the jury at the 24th Moscow International Film Festival.</p>"
+  },
+  "92": {
+    "type": "standard",
+    "title": "Sondra Locke",
+    "displaytitle": "Sondra Locke",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q284166",
+    "titles": {
+      "canonical": "Sondra_Locke",
+      "normalized": "Sondra Locke",
+      "display": "Sondra Locke"
+    },
+    "pageid": 921972,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sondra_Locke_1968_press_photo.jpg/249px-Sondra_Locke_1968_press_photo.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sondra_Locke_1968_press_photo.jpg",
+      "width": 735,
+      "height": 944
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079837825",
+    "tid": "c9360230-aee0-11ec-b0a5-8fc3f5d9f407",
+    "timestamp": "2022-03-28T21:48:12Z",
+    "description": "American actress and director (1944–2018)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sondra_Locke",
+        "revisions": "https://en.wikipedia.org/wiki/Sondra_Locke?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sondra_Locke?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sondra_Locke"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Sondra_Locke",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Sondra_Locke",
+        "edit": "https://en.m.wikipedia.org/wiki/Sondra_Locke?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Sondra_Locke"
+      }
+    },
+    "extract": "Sandra Louise Anderson, professionally known as Sondra Locke, was an American actress and director. She made her film debut in 1968 in The Heart Is a Lonely Hunter, for which she was nominated for an Academy Award for Best Supporting Actress. She went on to star in such hit films as Willard, The Outlaw Josey Wales, The Gauntlet, Every Which Way but Loose, Bronco Billy, Any Which Way You Can and Sudden Impact. She worked often with Clint Eastwood, who was her companion for 14 years. She also directed four films, notably Impulse. Locke's autobiography, The Good, the Bad, and the Very Ugly: A Hollywood Journey, was published in 1997.",
+    "extract_html": "<p><b>Sandra Louise Anderson</b>, professionally known as <b>Sondra Locke</b>, was an American actress and director. She made her film debut in 1968 in <i>The Heart Is a Lonely Hunter</i>, for which she was nominated for an Academy Award for Best Supporting Actress. She went on to star in such hit films as <i>Willard</i>, <i>The Outlaw Josey Wales</i>, <i>The Gauntlet</i>, <i>Every Which Way but Loose</i>, <i>Bronco Billy</i>, <i>Any Which Way You Can</i> and <i>Sudden Impact</i>. She worked often with Clint Eastwood, who was her companion for 14 years. She also directed four films, notably <i>Impulse</i>. Locke's autobiography, <i>The Good, the Bad, and the Very Ugly: A Hollywood Journey</i>, was published in 1997.</p>"
+  },
+  "93": {
+    "type": "standard",
+    "title": "Janet Greek",
+    "displaytitle": "Janet Greek",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q6153371",
+    "titles": {
+      "canonical": "Janet_Greek",
+      "normalized": "Janet Greek",
+      "display": "Janet Greek"
+    },
+    "pageid": 30703346,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1069813091",
+    "tid": "6a7d3d30-ad0f-11ec-a809-f1614b256d89",
+    "timestamp": "2022-02-04T06:32:08Z",
+    "description": "American director and screenwriter",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Janet_Greek",
+        "revisions": "https://en.wikipedia.org/wiki/Janet_Greek?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Janet_Greek?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Janet_Greek"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Janet_Greek",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Janet_Greek",
+        "edit": "https://en.m.wikipedia.org/wiki/Janet_Greek?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Janet_Greek"
+      }
+    },
+    "extract": "Janet Greek is an American director and writer of film and television. She is best known for her directorial work on the science fiction series Babylon 5.",
+    "extract_html": "<p><b>Janet Greek</b> is an American director and writer of film and television. She is best known for her directorial work on the science fiction series <i>Babylon 5</i>.</p>"
+  },
+  "94": {
+    "type": "standard",
+    "title": "Karen Arthur",
+    "displaytitle": "Karen Arthur",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3193092",
+    "titles": {
+      "canonical": "Karen_Arthur",
+      "normalized": "Karen Arthur",
+      "display": "Karen Arthur"
+    },
+    "pageid": 6709256,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1064469242",
+    "tid": "e3c47c10-aaff-11ec-ab4f-0372902d3443",
+    "timestamp": "2022-01-08T14:34:35Z",
+    "description": "American film director, producer, and actress",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Karen_Arthur",
+        "revisions": "https://en.wikipedia.org/wiki/Karen_Arthur?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Karen_Arthur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Karen_Arthur"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Karen_Arthur",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Karen_Arthur",
+        "edit": "https://en.m.wikipedia.org/wiki/Karen_Arthur?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Karen_Arthur"
+      }
+    },
+    "extract": "Karen Arthur is an American film director, producer, and actress.",
+    "extract_html": "<p><b>Karen Arthur</b> is an American film director, producer, and actress.</p>"
+  },
+  "95": {
+    "type": "disambiguation",
+    "title": "Mary Lambert",
+    "displaytitle": "Mary Lambert",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q16801065",
+    "titles": {
+      "canonical": "Mary_Lambert",
+      "normalized": "Mary Lambert",
+      "display": "Mary Lambert"
+    },
+    "pageid": 42584511,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "932985357",
+    "tid": "eec0b7f0-79bd-11ec-b482-5f2878b2618d",
+    "timestamp": "2019-12-29T09:33:44Z",
+    "description": "Topics referred to by the same term",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Mary_Lambert",
+        "revisions": "https://en.wikipedia.org/wiki/Mary_Lambert?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Mary_Lambert?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Lambert"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Mary_Lambert",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Mary_Lambert",
+        "edit": "https://en.m.wikipedia.org/wiki/Mary_Lambert?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Mary_Lambert"
+      }
+    },
+    "extract": "Mary Lambert may refer to:Mary Lambert (director), American film and television director\nMary Lambert (singer), American singer-songwriter\n",
+    "extract_html": "<p><b>Mary Lambert</b> may refer to:</p><ul><li>Mary Lambert (director), American film and television director</li>\n<li>Mary Lambert (singer), American singer-songwriter</li></ul>\n"
+  },
+  "96": {
+    "type": "standard",
+    "title": "Marisa Silver",
+    "displaytitle": "Marisa Silver",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3293710",
+    "titles": {
+      "canonical": "Marisa_Silver",
+      "normalized": "Marisa Silver",
+      "display": "Marisa Silver"
+    },
+    "pageid": 16286123,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Marisa_Silver_2016.jpg/213px-Marisa_Silver_2016.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marisa_Silver_2016.jpg",
+      "width": 710,
+      "height": 1066
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1056901569",
+    "tid": "82b85f30-ab05-11ec-95c6-136ca8e5e3a2",
+    "timestamp": "2021-11-24T06:59:04Z",
+    "description": "American writer and film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Marisa_Silver",
+        "revisions": "https://en.wikipedia.org/wiki/Marisa_Silver?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Marisa_Silver?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Marisa_Silver"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Marisa_Silver",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Marisa_Silver",
+        "edit": "https://en.m.wikipedia.org/wiki/Marisa_Silver?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Marisa_Silver"
+      }
+    },
+    "extract": "Marisa Silver is an American author, screenwriter and film director.",
+    "extract_html": "<p><b>Marisa Silver</b> is an American author, screenwriter and film director.</p>"
+  },
+  "97": {
+    "type": "standard",
+    "title": "Tina Rathborne",
+    "displaytitle": "Tina Rathborne",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q16150096",
+    "titles": {
+      "canonical": "Tina_Rathborne",
+      "normalized": "Tina Rathborne",
+      "display": "Tina Rathborne"
+    },
+    "pageid": 39091529,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075320000",
+    "tid": "05968620-ab10-11ec-9f65-3980ec7a948b",
+    "timestamp": "2022-03-05T03:19:07Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Tina_Rathborne",
+        "revisions": "https://en.wikipedia.org/wiki/Tina_Rathborne?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Tina_Rathborne?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tina_Rathborne"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Tina_Rathborne",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tina_Rathborne",
+        "edit": "https://en.m.wikipedia.org/wiki/Tina_Rathborne?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Tina_Rathborne"
+      }
+    },
+    "extract": "Tina Rathborne is American film director and screenwriter. She is best known for writing and directing the 1988 film Zelly and Me, her feature film directorial debut. Prior to this, she directed television film The Joy That Kills (1984), which later became an episode of the anthology series American Playhouse. Rathborne also went on to direct two episodes of the television series Twin Peaks.",
+    "extract_html": "<p><b>Tina Rathborne</b> is American film director and screenwriter. She is best known for writing and directing the 1988 film <i>Zelly and Me</i>, her feature film directorial debut. Prior to this, she directed television film <i>The Joy That Kills</i> (1984), which later became an episode of the anthology series <i>American Playhouse</i>. Rathborne also went on to direct two episodes of the television series <i>Twin Peaks</i>.</p>"
+  },
+  "98": {
+    "type": "standard",
+    "title": "Euzhan Palcy",
+    "displaytitle": "Euzhan Palcy",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q440423",
+    "titles": {
+      "canonical": "Euzhan_Palcy",
+      "normalized": "Euzhan Palcy",
+      "display": "Euzhan Palcy"
+    },
+    "pageid": 1732563,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Euzhan_Palcy_2012_%28cropped%29.jpg/205px-Euzhan_Palcy_2012_%28cropped%29.jpg",
+      "width": 205,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Euzhan_Palcy_2012_%28cropped%29.jpg",
+      "width": 321,
+      "height": 501
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075313782",
+    "tid": "cc171220-aafb-11ec-9164-dba29db20aae",
+    "timestamp": "2022-03-05T02:39:07Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Euzhan_Palcy",
+        "revisions": "https://en.wikipedia.org/wiki/Euzhan_Palcy?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Euzhan_Palcy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Euzhan_Palcy"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Euzhan_Palcy",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Euzhan_Palcy",
+        "edit": "https://en.m.wikipedia.org/wiki/Euzhan_Palcy?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Euzhan_Palcy"
+      }
+    },
+    "extract": "Euzhan Palcy is a film director, writer and producer from Martinique, French West Indies. Her films are known to explore themes of race, gender, and politics, with an emphasis on the perpetuated effects of colonialism.",
+    "extract_html": "<p><b>Euzhan Palcy</b> is a film director, writer and producer from Martinique, French West Indies. Her films are known to explore themes of race, gender, and politics, with an emphasis on the perpetuated effects of colonialism.</p>"
+  },
+  "99": {
+    "type": "standard",
+    "title": "Dyan Cannon",
+    "displaytitle": "Dyan Cannon",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q236688",
+    "titles": {
+      "canonical": "Dyan_Cannon",
+      "normalized": "Dyan Cannon",
+      "display": "Dyan Cannon"
+    },
+    "pageid": 217685,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dyan_Cannon_1950s-cropped.jpg/245px-Dyan_Cannon_1950s-cropped.jpg",
+      "width": 245,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dyan_Cannon_1950s-cropped.jpg",
+      "width": 398,
+      "height": 520
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079423642",
+    "tid": "6404c640-ad31-11ec-a459-039e6ffaeaf9",
+    "timestamp": "2022-03-26T18:20:15Z",
+    "description": "American actress, director, screenwriter, editor, and producer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Dyan_Cannon",
+        "revisions": "https://en.wikipedia.org/wiki/Dyan_Cannon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Dyan_Cannon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dyan_Cannon"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Dyan_Cannon",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Dyan_Cannon",
+        "edit": "https://en.m.wikipedia.org/wiki/Dyan_Cannon?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Dyan_Cannon"
+      }
+    },
+    "extract": "Dyan Cannon is an American actress, director, screenwriter, producer, and editor. She was nominated for three Academy Awards.",
+    "extract_html": "<p><b>Dyan Cannon</b> is an American actress, director, screenwriter, producer, and editor. She was nominated for three Academy Awards.</p>"
+  },
+  "100": {
+    "type": "standard",
+    "title": "Barbra Streisand",
+    "displaytitle": "Barbra Streisand",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q4636",
+    "titles": {
+      "canonical": "Barbra_Streisand",
+      "normalized": "Barbra Streisand",
+      "display": "Barbra Streisand"
+    },
+    "pageid": 72336,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg/233px-Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg",
+      "width": 233,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg",
+      "width": 617,
+      "height": 847
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1076749853",
+    "tid": "b39e3820-afa8-11ec-8c93-47b5286a621f",
+    "timestamp": "2022-03-12T18:52:45Z",
+    "description": "American singer, actress, and filmmaker (born 1942)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+        "revisions": "https://en.wikipedia.org/wiki/Barbra_Streisand?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Barbra_Streisand?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Barbra_Streisand"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Barbra_Streisand",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Barbra_Streisand",
+        "edit": "https://en.m.wikipedia.org/wiki/Barbra_Streisand?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Barbra_Streisand"
+      }
+    },
+    "extract": "Barbara Joan Streisand, known professionally as Barbra Streisand, is an American singer, actress, and filmmaker. With a career spanning over six decades, she has achieved success in multiple fields of entertainment, and is among the few performers awarded an Emmy, Grammy, Oscar, and Tony (EGOT).",
+    "extract_html": "<p><b>Barbara Joan Streisand</b>, known professionally as <b>Barbra Streisand</b>, is an American singer, actress, and filmmaker. With a career spanning over six decades, she has achieved success in multiple fields of entertainment, and is among the few performers awarded an Emmy, Grammy, Oscar, and Tony (EGOT).</p>"
+  },
+  "101": {
+    "type": "standard",
+    "title": "Julie Dash",
+    "displaytitle": "Julie Dash",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3189195",
+    "titles": {
+      "canonical": "Julie_Dash",
+      "normalized": "Julie Dash",
+      "display": "Julie Dash"
+    },
+    "pageid": 183063,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Julie_Dash_-_Career_Girls_2-55_screenshot.png/320px-Julie_Dash_-_Career_Girls_2-55_screenshot.png",
+      "width": 320,
+      "height": 291
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Julie_Dash_-_Career_Girls_2-55_screenshot.png",
+      "width": 1189,
+      "height": 1080
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1078735550",
+    "tid": "0615da40-aa4a-11ec-872a-4bb86cf28d63",
+    "timestamp": "2022-03-23T01:39:00Z",
+    "description": "American novelist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Julie_Dash",
+        "revisions": "https://en.wikipedia.org/wiki/Julie_Dash?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Julie_Dash?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Julie_Dash"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Julie_Dash",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Julie_Dash",
+        "edit": "https://en.m.wikipedia.org/wiki/Julie_Dash?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Julie_Dash"
+      }
+    },
+    "extract": "Julie Ethel Dash is an American film director, writer and producer. Dash received her MFA in 1985 at the UCLA Film School and is one of the graduates and filmmakers known as the L.A. Rebellion. The L.A. Rebellion refers to the first African and African-American students who studied film at UCLA. After she had written and directed several shorts, her 1991 feature Daughters of the Dust became the first full-length film directed by an African-American woman to obtain general theatrical release in the United States.",
+    "extract_html": "<p><b>Julie Ethel Dash</b> is an American film director, writer and producer. Dash received her MFA in 1985 at the UCLA Film School and is one of the graduates and filmmakers known as the L.A. Rebellion. The L.A. Rebellion refers to the first African and African-American students who studied film at UCLA. After she had written and directed several shorts, her 1991 feature <i>Daughters of the Dust</i> became the first full-length film directed by an African-American woman to obtain general theatrical release in the United States.</p>"
+  },
+  "102": {
+    "type": "standard",
+    "title": "Nancy Savoca",
+    "displaytitle": "Nancy Savoca",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q3335603",
+    "titles": {
+      "canonical": "Nancy_Savoca",
+      "normalized": "Nancy Savoca",
+      "display": "Nancy Savoca"
+    },
+    "pageid": 13685680,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075339168",
+    "tid": "03ed6070-ab04-11ec-af41-57420aa9d941",
+    "timestamp": "2022-03-05T05:50:50Z",
+    "description": "American film producer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nancy_Savoca",
+        "revisions": "https://en.wikipedia.org/wiki/Nancy_Savoca?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nancy_Savoca?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nancy_Savoca"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Nancy_Savoca",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Nancy_Savoca",
+        "edit": "https://en.m.wikipedia.org/wiki/Nancy_Savoca?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Nancy_Savoca"
+      }
+    },
+    "extract": "Nancy Laura Savoca is an American film director, producer, and screenwriter.",
+    "extract_html": "<p><b>Nancy Laura Savoca</b> is an American film director, producer, and screenwriter.</p>"
+  },
+  "103": {
+    "type": "standard",
+    "title": "Allison Anders",
+    "displaytitle": "Allison Anders",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q2838329",
+    "titles": {
+      "canonical": "Allison_Anders",
+      "normalized": "Allison Anders",
+      "display": "Allison Anders"
+    },
+    "pageid": 5190517,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Allison_Anders_accepts_the_Peabody_Award%2C_May_2002_%28cropped%29.jpg/298px-Allison_Anders_accepts_the_Peabody_Award%2C_May_2002_%28cropped%29.jpg",
+      "width": 298,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Allison_Anders_accepts_the_Peabody_Award%2C_May_2002_%28cropped%29.jpg",
+      "width": 921,
+      "height": 988
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1060953494",
+    "tid": "dbdafde0-aafe-11ec-9c25-7b8ced72458a",
+    "timestamp": "2021-12-18T18:25:32Z",
+    "description": "American independent film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Allison_Anders",
+        "revisions": "https://en.wikipedia.org/wiki/Allison_Anders?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Allison_Anders?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Allison_Anders"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Allison_Anders",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Allison_Anders",
+        "edit": "https://en.m.wikipedia.org/wiki/Allison_Anders?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Allison_Anders"
+      }
+    },
+    "extract": "Allison Anders is an American independent film director whose films include Gas Food Lodging, Mi Vida Loca and Grace of My Heart. Anders has collaborated with fellow UCLA School of Theater, Film and Television graduate Kurt Voss and has also worked as a television director. Anders' films have been shown at the Cannes International Film Festival and at the Sundance Film Festival. She has been awarded a MacArthur Genius Grant as well as a Peabody Award.",
+    "extract_html": "<p><b>Allison Anders</b> is an American independent film director whose films include <i>Gas Food Lodging</i>, <i>Mi Vida Loca</i> and <i>Grace of My Heart</i>. Anders has collaborated with fellow UCLA School of Theater, Film and Television graduate Kurt Voss and has also worked as a television director. Anders' films have been shown at the Cannes International Film Festival and at the Sundance Film Festival. She has been awarded a MacArthur Genius Grant as well as a Peabody Award.</p>"
+  },
+  "104": {
+    "type": "standard",
+    "title": "Maya Angelou",
+    "displaytitle": "Maya Angelou",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q19526",
+    "titles": {
+      "canonical": "Maya_Angelou",
+      "normalized": "Maya Angelou",
+      "display": "Maya Angelou"
+    },
+    "pageid": 288140,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/236px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+      "width": 1180,
+      "height": 1600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079589694",
+    "tid": "ebaa9b40-ade7-11ec-bb5f-41855bfc7e99",
+    "timestamp": "2022-03-27T16:06:46Z",
+    "description": "American poet, author, and civil rights activist (1928–2014)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Maya_Angelou",
+        "revisions": "https://en.wikipedia.org/wiki/Maya_Angelou?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Maya_Angelou?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Maya_Angelou"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Maya_Angelou",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Maya_Angelou",
+        "edit": "https://en.m.wikipedia.org/wiki/Maya_Angelou?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Maya_Angelou"
+      }
+    },
+    "extract": "Maya Angelou was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, I Know Why the Caged Bird Sings (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+    "extract_html": "<p><b>Maya Angelou</b> was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, <i>I Know Why the Caged Bird Sings</i> (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.</p>"
+  },
+  "105": {
+    "type": "standard",
+    "title": "Lisa Cholodenko",
+    "displaytitle": "Lisa Cholodenko",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q258525",
+    "titles": {
+      "canonical": "Lisa_Cholodenko",
+      "normalized": "Lisa Cholodenko",
+      "display": "Lisa Cholodenko"
+    },
+    "pageid": 4736509,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079209462",
+    "tid": "f4f514b0-ac56-11ec-9e6f-7169f7007e5c",
+    "timestamp": "2022-03-25T16:16:38Z",
+    "description": "American screenwriter and director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lisa_Cholodenko",
+        "revisions": "https://en.wikipedia.org/wiki/Lisa_Cholodenko?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lisa_Cholodenko?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lisa_Cholodenko"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Lisa_Cholodenko",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Lisa_Cholodenko",
+        "edit": "https://en.m.wikipedia.org/wiki/Lisa_Cholodenko?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Lisa_Cholodenko"
+      }
+    },
+    "extract": "Lisa Cholodenko is an American screenwriter and director. Cholodenko wrote and directed the films High Art (1998), Laurel Canyon (2002), and The Kids Are All Right (2010). She has also directed television, including the miniseries Olive Kitteridge (2014) and Unbelievable (2019). She has been nominated for an Academy Award and a Golden Globe and has won an Emmy and a DGA Award.",
+    "extract_html": "<p><b>Lisa Cholodenko</b> is an American screenwriter and director. Cholodenko wrote and directed the films <i>High Art</i> (1998), <i>Laurel Canyon</i> (2002), and <i>The Kids Are All Right</i> (2010). She has also directed television, including the miniseries <i>Olive Kitteridge</i> (2014) and <i>Unbelievable</i> (2019). She has been nominated for an Academy Award and a Golden Globe and has won an Emmy and a DGA Award.</p>"
+  },
+  "106": {
+    "type": "standard",
+    "title": "Cauleen Smith",
+    "displaytitle": "Cauleen Smith",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q5054501",
+    "titles": {
+      "canonical": "Cauleen_Smith",
+      "normalized": "Cauleen Smith",
+      "display": "Cauleen Smith"
+    },
+    "pageid": 29880408,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Cauleen_Smith.jpg/213px-Cauleen_Smith.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/8/83/Cauleen_Smith.jpg",
+      "width": 426,
+      "height": 640
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1075312124",
+    "tid": "f5c681e0-ab0b-11ec-ad69-5d85a489dfe8",
+    "timestamp": "2022-03-05T02:25:53Z",
+    "description": "American film director",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Cauleen_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Cauleen_Smith?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Cauleen_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Cauleen_Smith"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Cauleen_Smith",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Cauleen_Smith",
+        "edit": "https://en.m.wikipedia.org/wiki/Cauleen_Smith?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Cauleen_Smith"
+      }
+    },
+    "extract": "Cauleen Smith is an American born filmmaker and multimedia artist. She is best known for her experimental works that address the African-American identity, specifically the issues facing black women today. Smith is best known for her feature film Drylongso. Smith currently teaches in the School of Art at the California Institute of the Arts.",
+    "extract_html": "<p><b>Cauleen Smith</b> is an American born filmmaker and multimedia artist. She is best known for her experimental works that address the African-American identity, specifically the issues facing black women today. Smith is best known for her feature film <i>Drylongso</i>. Smith currently teaches in the School of Art at the California Institute of the Arts.</p>"
+  },
+  "107": {
+    "type": "standard",
+    "title": "Tamara Jenkins",
+    "displaytitle": "Tamara Jenkins",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q524733",
+    "titles": {
+      "canonical": "Tamara_Jenkins",
+      "normalized": "Tamara Jenkins",
+      "display": "Tamara Jenkins"
+    },
+    "pageid": 14461116,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tamara_Jenkins_%2811327430963%29_%28cropped%29.jpg/295px-Tamara_Jenkins_%2811327430963%29_%28cropped%29.jpg",
+      "width": 295,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tamara_Jenkins_%2811327430963%29_%28cropped%29.jpg",
+      "width": 1062,
+      "height": 1152
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1060957822",
+    "tid": "53aeb460-ab04-11ec-87ff-5d54213c06b9",
+    "timestamp": "2021-12-18T18:59:20Z",
+    "description": "American filmmaker",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Tamara_Jenkins",
+        "revisions": "https://en.wikipedia.org/wiki/Tamara_Jenkins?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Tamara_Jenkins?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tamara_Jenkins"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Tamara_Jenkins",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Tamara_Jenkins",
+        "edit": "https://en.m.wikipedia.org/wiki/Tamara_Jenkins?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Tamara_Jenkins"
+      }
+    },
+    "extract": "Tamara Jenkins is an American filmmaker and occasional actress. She is best known for her feature films Slums of Beverly Hills (1998), The Savages (2007), and Private Life (2018).",
+    "extract_html": "<p><b>Tamara Jenkins</b> is an American filmmaker and occasional actress. She is best known for her feature films <i>Slums of Beverly Hills</i> (1998), <i>The Savages</i> (2007), and <i>Private Life</i> (2018).</p>"
+  },
+  "108": {
+    "type": "standard",
+    "title": "Kathryn Bigelow",
+    "displaytitle": "Kathryn Bigelow",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q34816",
+    "titles": {
+      "canonical": "Kathryn_Bigelow",
+      "normalized": "Kathryn Bigelow",
+      "display": "Kathryn Bigelow"
+    },
+    "pageid": 213495,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kathryn_Bigelow_by_David_Shankbone.jpg/256px-Kathryn_Bigelow_by_David_Shankbone.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kathryn_Bigelow_by_David_Shankbone.jpg",
+      "width": 1914,
+      "height": 2393
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1079892754",
+    "tid": "4bd43f80-af23-11ec-8148-81778509b7c7",
+    "timestamp": "2022-03-29T05:44:19Z",
+    "description": "American film director, producer, and screenwriter",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Kathryn_Bigelow",
+        "revisions": "https://en.wikipedia.org/wiki/Kathryn_Bigelow?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Kathryn_Bigelow?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Kathryn_Bigelow"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Kathryn_Bigelow",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Kathryn_Bigelow",
+        "edit": "https://en.m.wikipedia.org/wiki/Kathryn_Bigelow?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Kathryn_Bigelow"
+      }
+    },
+    "extract": "Kathryn Ann Bigelow is an American film director, producer, and screenwriter. Covering a wide range of genres, her films include Near Dark (1987), Point Break (1991), Strange Days (1995), K-19: The Widowmaker (2002), The Hurt Locker (2008), Zero Dark Thirty (2012), and Detroit (2017).",
+    "extract_html": "<p><b>Kathryn Ann Bigelow</b> is an American film director, producer, and screenwriter. Covering a wide range of genres, her films include <i>Near Dark</i> (1987), <i>Point Break</i> (1991), <i>Strange Days</i> (1995), <i>K-19: The Widowmaker</i> (2002), <i>The Hurt Locker</i> (2008), <i>Zero Dark Thirty</i> (2012), and <i>Detroit</i> (2017).</p>"
+  },
+  "109": {
+    "type": "standard",
+    "title": "Bette Gordon",
+    "displaytitle": "Bette Gordon",
+    "namespace": { "id": 0, "text": "" },
+    "wikibase_item": "Q22959279",
+    "titles": {
+      "canonical": "Bette_Gordon",
+      "normalized": "Bette Gordon",
+      "display": "Bette Gordon"
+    },
+    "pageid": 49359097,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bette_Gordon.jpg/240px-Bette_Gordon.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bette_Gordon.jpg",
+      "width": 600,
+      "height": 800
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1073956343",
+    "tid": "fcdd7ec0-ab15-11ec-b29a-897e4b31b14f",
+    "timestamp": "2022-02-25T16:14:21Z",
+    "description": "American filmmaker",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Bette_Gordon",
+        "revisions": "https://en.wikipedia.org/wiki/Bette_Gordon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Bette_Gordon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bette_Gordon"
+      },
+      "mobile": {
+        "page": "https://en.m.wikipedia.org/wiki/Bette_Gordon",
+        "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bette_Gordon",
+        "edit": "https://en.m.wikipedia.org/wiki/Bette_Gordon?action=edit",
+        "talk": "https://en.m.wikipedia.org/wiki/Talk:Bette_Gordon"
+      }
+    },
+    "extract": "Bette Gordon is an American filmmaker and professor at Columbia University School of the Arts. She is best known for her films Variety (1983) and Handsome Harry (2009) both of which received critical acclaim in North America and abroad.",
+    "extract_html": "<p><b>Bette Gordon</b> is an American filmmaker and professor at Columbia University School of the Arts. She is best known for her films <i>Variety</i> (1983) and <i>Handsome Harry</i> (2009) both of which received critical acclaim in North America and abroad.</p>"
   }
 }

@@ -10,15 +10,15 @@ import { buildSchema } from 'graphql'
 import db, { OrderBy } from './data/store'
 import lexObject from './lexObject'
 
+// import seed from './data/seed'
 // await seed({
-//   reset: false,
-//   doMergeIMDB: false,
+//   reset: true,
+//   doMergeIMDB: true,
 //   doFetchIMDB: false,
-//   doMergeWikipedia: false,
+//   doMergeWikipedia: true,
 //   doFetchWikipedia: false,
-//   doFetchImages: true,
+//   doFetchImages: false,
 // })
-
 // process.exit(0)
 
 const schema = buildSchema(`#graphql
