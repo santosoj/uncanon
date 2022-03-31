@@ -52,6 +52,9 @@ export interface PageContentAsset {
 
 export interface PageContent extends GraphQLObject {
   slug: string
+  tabTitle: string
+  contentTitle: string
+  contentSubtitle: string
   assets: PageContentAsset[]
   body: string
 }
@@ -73,3 +76,5 @@ export type DirectorListResponse = ListResponse<'directors', DirectorListItem>
 export type FilmResponse = ObjectResponse<'film', Film>
 
 export type FilmListResponse = ListResponse<'films', FilmListItem>
+
+export type PageContentResponse = ObjectResponse<'pageContent', PageContent>
