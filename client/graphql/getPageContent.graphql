@@ -1,0 +1,12 @@
+query getPageContent($slug: String!) {
+  pageContent(slug: $slug) {
+    tabTitle
+    contentTitle
+    contentSubtitle
+    assets {
+      slug
+      uri
+    }
+    body
+  }
+}

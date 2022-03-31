@@ -22,6 +22,7 @@ import { allSortArgs } from './components/SortControl/sorting'
 import TabbedStackNavigationHeader from './components/TabbedStackNavigationHeader'
 import getAllDirectors from './graphql/getAllDirectors.graphql'
 import getAllFilms from './graphql/getAllFilms.graphql'
+import ContentPage from './screens/ContentPage'
 import DirectorDetail from './screens/DirectorDetail'
 import DirectorList, { DirectorListSortOptions } from './screens/DirectorList'
 import FilmDetail from './screens/FilmDetail'
@@ -162,6 +163,11 @@ export default function App() {
                   name='Director'
                   component={DirectorDetail}
                   options={{ title: '' }}
+                />
+                <Stack.Screen
+                  name='About'
+                  component={ContentPage}
+                  initialParams={{slug: 'about'}}
                 />
               </Stack.Navigator>
             </ResponsiveScreen>

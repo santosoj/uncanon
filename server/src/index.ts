@@ -1,4 +1,4 @@
-import { Director, Film, PageContent, PageContentAsset } from '@uncanon/types'
+import { Director, Film, PageContent } from '@uncanon/types'
 import apicache from 'apicache'
 import bodyParser from 'body-parser'
 import cors from 'cors'
@@ -97,6 +97,9 @@ const schema = buildSchema(`#graphql
 
   type PageContent {
     slug: String!
+    tabTitle: String!
+    contentTitle: String!
+    contentSubtitle: String
     assets: [PageContentAsset!]!
     body: String!
   }
@@ -115,7 +118,14 @@ const schema = buildSchema(`#graphql
   }
 
   type Mutation {
-    postPageContent(slug: String!, assets: [PageContentAssetInput!]!, body: String!): PageContent!
+    postPageContent(
+      slug: String!,
+      tabTitle: String!,
+      contentTitle: String!,
+      contentSubtitle: String,
+      assets: [PageContentAssetInput!]!,
+      body: String!
+    ): PageContent!
   }
 `)
 
@@ -135,12 +145,6 @@ interface IDArgs {
 
 interface SlugArgs {
   slug: string
-}
-
-interface PostPageContentArgs {
-  slug: string
-  assets: PageContentAsset[]
-  body: string
 }
 
 const root = {
@@ -195,7 +199,11 @@ const root = {
     return await db.pageContents.findOne({ slug })
   },
   postPageContent: async (pageContent: PageContent) => {
-    return await db.pageContents.insert(pageContent)
+    // return await db.pageContents.update (pageContent)
+    await db.pageContents.update({ slug: pageContent.slug }, pageContent, {
+      upsert: true,
+    })
+    return await db.pageContents.findOne({ slug: pageContent.slug })
   },
 }
 

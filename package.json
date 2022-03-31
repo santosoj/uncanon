@@ -5,7 +5,8 @@
   "scripts": {
     "ngrok": "yarn --cwd ./server ngrok",
     "dev:server": "yarn --cwd ./server build:watch & yarn --cwd ./server start",
-    "dev:client": "yarn --cwd ./client web"
+    "dev:client": "yarn --cwd ./client web",
+    "loadenv": "set -a; source .env.local; set +a"
   },
   "devDependencies": {},
   "dependencies": {
