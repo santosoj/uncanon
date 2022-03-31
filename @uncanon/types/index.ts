@@ -45,6 +45,17 @@ export interface Film extends GraphQLObject {
   }
 }
 
+export interface PageContentAsset {
+  slug: string
+  uri: string
+}
+
+export interface PageContent extends GraphQLObject {
+  slug: string
+  assets: PageContentAsset[]
+  body: string
+}
+
 export type DirectorListItem = Pick<Director, '_id' | 'name' | 'lexKey' | 'birthYear' | 'deathYear' | 'film' | 'thumbnail'>
 
 export type FilmListItem = Pick<Film, '_id' | 'title' | 'year' | 'directorsText' | 'image'> & {

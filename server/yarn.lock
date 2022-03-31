@@ -1100,10 +1100,10 @@
   resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.16.3.tgz#b776327a73e561b71e7881d0cd6d34a1424db86a"
   integrity sha512-9gtOPPkfyNoEqCQgx4qJKkuNm/x0R2hKR7fdl7zvTJyHnIisuE/LfvXOsYWL0o3qq6uiBnKZNNNzi3l0y/X+xw==
 
-"@uncanon/types@^1.0.5":
-  version "1.0.5"
-  resolved "https://gitlab.com/api/v4/projects/34834999/packages/npm/@uncanon/types/-/@uncanon/types-1.0.5.tgz#65d50c42b7417243218d675c26e963da02d9d0cc"
-  integrity sha1-ZdUMQrdBckMhjWdcJulj2gLZ0Mw=
+"@uncanon/types@^1.0.6":
+  version "1.0.6"
+  resolved "https://gitlab.com/api/v4/projects/34834999/packages/npm/@uncanon/types/-/@uncanon/types-1.0.6.tgz#18ee084cf684a58e3d2bc7c1ace9c902c240acc1"
+  integrity sha1-GO4ITPaEpY49K8fBrOnJAsJArME=
 
 "@webassemblyjs/ast@1.11.1":
   version "1.11.1"
