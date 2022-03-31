@@ -1,12 +1,13 @@
-import { Director, Film } from '@uncanon/types'
+import { Director, Film, PageContent } from '@uncanon/types'
 import fs from 'fs'
 import Datastore from 'nedb-promises'
 
-type Databases = 'directors' | 'films'
+type Databases = 'directors' | 'films' | 'pageContents'
 
 const PERSISTENCE_FILE: { [name in Databases]: string } = {
   directors: process.env.NEDB_PERSISTENCE_DIRECTORY + '/directors.db',
   films: process.env.NEDB_PERSISTENCE_DIRECTORY + '/films.db',
+  pageContents: process.env.NEDB_PERSISTENCE_DIRECTORY + '/pageContents.db',
 }
 
 type ArrayElement<ArrayType extends readonly unknown[]> =
@@ -30,6 +31,7 @@ type CursorType = any
 interface DB {
   directors: Datastore<Director>
   films: Datastore<Film>
+  pageContents: Datastore<PageContent>
   reset: () => Promise<void>
   populate: <T extends { [key in P]: T[P] }, P extends keyof T>(
     target: T,
@@ -99,6 +101,10 @@ const db: DB = {
   }),
   films: Datastore.create({
     filename: PERSISTENCE_FILE.films,
+    autoload: true,
+  }),
+  pageContents: Datastore.create({
+    filename: PERSISTENCE_FILE.pageContents,
     autoload: true,
   }),
   reset: resetDB,

@@ -1,10 +1,10 @@
-import { Director, Film } from '@uncanon/types'
+import { Director, Film, PageContent, PageContentAsset } from '@uncanon/types'
 import apicache from 'apicache'
 import bodyParser from 'body-parser'
 import cors from 'cors'
 import crypto from 'crypto'
 import 'dotenv/config'
-import express, { Request, Response } from 'express'
+import express, { NextFunction, Request, Response } from 'express'
 import { graphqlHTTP } from 'express-graphql'
 import { buildSchema } from 'graphql'
 import db, { OrderBy } from './data/store'
@@ -85,6 +85,22 @@ const schema = buildSchema(`#graphql
     wikipedia: FilmWikipediaSection!
   }
 
+  type PageContentAsset {
+    slug: String!
+    uri: String!
+  }
+
+  input PageContentAssetInput {
+    slug: String!
+    uri: String!
+  }
+
+  type PageContent {
+    slug: String!
+    assets: [PageContentAsset!]!
+    body: String!
+  }
+
   input OrderByInput {
     order: [Sort!]
     fields: [String!]
@@ -95,17 +111,40 @@ const schema = buildSchema(`#graphql
     director(_id: ID!): Director
     films(orderBy: OrderByInput): [Film!]!
     film(_id: ID!): Film
+    pageContent(slug: String!): PageContent
+  }
+
+  type Mutation {
+    postPageContent(slug: String!, assets: [PageContentAssetInput!]!, body: String!): PageContent!
   }
 `)
+
+type GraphOperation =
+  | 'directors'
+  | 'director'
+  | 'films'
+  | 'film'
+  | 'pageContent'
+  | 'postPageContent'
+
+const protectedOperations: GraphOperation[] = ['postPageContent']
 
 interface IDArgs {
   _id: string
 }
 
+interface SlugArgs {
+  slug: string
+}
+
+interface PostPageContentArgs {
+  slug: string
+  assets: PageContentAsset[]
+  body: string
+}
+
 const root = {
   directors: async (args?: { orderBy: OrderBy<Director> }) => {
-    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
-
     const directors = await db.orderBy(db.directors.find({}), args?.orderBy)
 
     return await directors.map(async (d) => {
@@ -122,8 +161,6 @@ const root = {
     })
   },
   director: async ({ _id }: IDArgs) => {
-    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
-
     const director = await db.directors.findOne({ _id: Number(_id) })
     if (director) {
       const film = await db.films.findOne({
@@ -140,16 +177,12 @@ const root = {
     return null
   },
   films: async (args?: { orderBy: OrderBy<Film> }) => {
-    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
-
     const films = await db.orderBy(db.films.find({}), args?.orderBy)
     return await films.map((f) =>
       db.populate(f, [{ prop: 'directors', dataStore: db.directors }])
     )
   },
   film: async ({ _id }: IDArgs) => {
-    console.log(`[${new Date().getTime().toString().slice(-4)}]: resolver`)
-
     const film = await db.films.findOne({ _id: Number(_id) })
     if (film) {
       return await db.populate(film, [
@@ -157,6 +190,12 @@ const root = {
       ])
     }
     return null
+  },
+  pageContent: async ({ slug }: SlugArgs) => {
+    return await db.pageContents.findOne({ slug })
+  },
+  postPageContent: async (pageContent: PageContent) => {
+    return await db.pageContents.insert(pageContent)
   },
 }
 
@@ -181,10 +220,30 @@ const cache200 = cache(
 const app = express()
 const port = 3000
 
+const authMiddleware = (req: Request, res: Response, next: NextFunction) => {
+  const { operationName }: { operationName?: GraphOperation } = req.body
+  if (operationName && protectedOperations.includes(operationName)) {
+    const authHeader = req.header('Authorization') || ''
+    const match = authHeader.match(/^Bearer ([\w=]+)$/)
+    if (
+      match &&
+      match.length > 1 &&
+      match[1] === process.env.GRAPHQL_AUTH_TOKEN
+    ) {
+      next()
+    } else {
+      res.json({ data: null, errors: ['UNAUTHENTICATED'] }).send()
+    }
+  } else {
+    next()
+  }
+}
+
 app.use(cors())
 app.use(
   '/graphql',
   jsonParser,
+  authMiddleware,
   cache200,
   graphqlHTTP({
     schema: schema,

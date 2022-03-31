@@ -1,4 +1,4 @@
-import { Director, Film } from '@uncanon/types';
+import { Director, Film, PageContent } from '@uncanon/types';
 import Datastore from 'nedb-promises';
 declare type ArrayElement<ArrayType extends readonly unknown[]> = ArrayType extends readonly (infer ElementType)[] ? ElementType : never;
 export interface OrderBy<T> {
@@ -15,6 +15,7 @@ declare type CursorType = any;
 interface DB {
     directors: Datastore<Director>;
     films: Datastore<Film>;
+    pageContents: Datastore<PageContent>;
     reset: () => Promise<void>;
     populate: <T extends {
         [key in P]: T[P];
