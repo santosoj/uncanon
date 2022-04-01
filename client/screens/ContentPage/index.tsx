@@ -12,13 +12,27 @@ import { StackParamList } from '../types'
 const systemFonts = ['Barlow', 'Barlow Semi Condensed']
 
 const tagsStyles = {
-  body: { fontFamily: 'Barlow Semi Condensed', fontSize: '16px', paddingRight: '16px' },
+  body: {
+    fontFamily: 'Barlow Semi Condensed',
+    fontSize: '16px',
+    paddingRight: '16px',
+  },
   h1: { fontFamily: 'Barlow', fontSize: '28px' },
   h2: { fontFamily: 'Barlow', fontSize: '24px' },
   h3: { fontFamily: 'Barlow', fontSize: '18px' },
   h4: { fontFamily: 'Barlow' },
   h5: { fontFamily: 'Barlow' },
   h6: { fontFamily: 'Barlow' },
+}
+
+function replaceAssetSlugs(
+  assetMap: { [slug: string]: string },
+  body: string
+): string {
+  const re = new RegExp(/\{\{\s*?([\w-]+)\s*?\}\}/, 'g')
+  const substrings = body.split(re)
+  const substringsWithReplacement = substrings.map((s) => s in assetMap ? assetMap[s] : s)
+  return substringsWithReplacement.join('')
 }
 
 function ContentPage({
@@ -38,10 +52,12 @@ function ContentPage({
   const pageContent = data?.pageContent
 
   let assetMap: { [slug: string]: string } = {}
+  let bodyWithAssetURIs: string = ''
   if (pageContent) {
     for (let asset of pageContent.assets) {
       assetMap[asset.slug] = asset.uri
     }
+    bodyWithAssetURIs = replaceAssetSlugs(assetMap, pageContent.body)
   }
 
   useEffect(() => {
@@ -53,7 +69,7 @@ function ContentPage({
   return (
     <ScrollView style={{ backgroundColor: colors.white }}>
       {!!pageContent && (
-        <Box style={{paddingBottom: spacing.huge + spacing.medium}}>
+        <Box style={{ paddingBottom: spacing.huge + spacing.medium }}>
           <Image
             source={{ uri: assetMap['top-banner'] }}
             style={{ height: 240 }}
@@ -77,7 +93,7 @@ function ContentPage({
           </Box>
           <Box>
             <RenderHTML
-              source={{ html: pageContent.body }}
+              source={{ html: bodyWithAssetURIs }}
               systemFonts={systemFonts}
               tagsStyles={tagsStyles}
             />
