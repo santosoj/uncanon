@@ -4,8 +4,6 @@ const { withUnimodules } = require('@expo/webpack-config/addons')
 
 module.exports = {
   stories: [
-    '../stories/**/*.stories.mdx',
-    '../stories/**/*.stories.@(js|jsx|ts|tsx)',
     '../components/**/*.stories.tsx',
     '../screens/**/*.stories.tsx',
   ],
