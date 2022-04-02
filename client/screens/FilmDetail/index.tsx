@@ -33,7 +33,7 @@ function FilmDetail({
 
   useEffect(() => {
     if (film) {
-      navigation.setOptions({ title: film.title })
+      navigation.setOptions({ title: `Uncanon | ${film.title}` })
     }
   }, [film])
 

@@ -31,7 +31,7 @@ function DirectorDetail({
 
   useEffect(() => {
     if (director) {
-      navigation.setOptions({ title: director.name })
+      navigation.setOptions({ title: `Uncanon | ${director.name}` })
     }
   }, [director])
 

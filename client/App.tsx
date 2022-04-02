@@ -152,13 +152,21 @@ export default function App() {
             <ResponsiveScreen>
               <AppHeader />
               <Stack.Navigator screenOptions={{ header: StackHeader }}>
-                <Stack.Screen name='Films' component={FilmList} />
+                <Stack.Screen
+                  name='Films'
+                  component={FilmList}
+                  options={{ title: 'Uncanon | Films' }}
+                />
                 <Stack.Screen
                   name='Film'
                   component={FilmDetail}
                   options={{ title: '' }}
                 />
-                <Stack.Screen name='Directors' component={DirectorList} />
+                <Stack.Screen
+                  name='Directors'
+                  component={DirectorList}
+                  options={{ title: 'Uncanon | Directors' }}
+                />
                 <Stack.Screen
                   name='Director'
                   component={DirectorDetail}
@@ -167,7 +175,7 @@ export default function App() {
                 <Stack.Screen
                   name='About'
                   component={ContentPage}
-                  initialParams={{slug: 'about'}}
+                  initialParams={{ slug: 'about' }}
                 />
               </Stack.Navigator>
             </ResponsiveScreen>
