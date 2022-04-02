@@ -6,3 +6,5 @@ tokens
 .gitignore
 .prettierignore
 .prettierrc
+web-build
+

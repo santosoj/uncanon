@@ -12,5 +12,4 @@ export default {
 const Template: ComponentStory<typeof TestBed> = (args) => <TestBed />
 
 export const Default = Template.bind({})
-Default.args = {
-}
+Default.args = {}

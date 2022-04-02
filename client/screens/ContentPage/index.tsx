@@ -31,7 +31,9 @@ function replaceAssetSlugs(
 ): string {
   const re = new RegExp(/\{\{\s*?([\w-]+)\s*?\}\}/, 'g')
   const substrings = body.split(re)
-  const substringsWithReplacement = substrings.map((s) => s in assetMap ? assetMap[s] : s)
+  const substringsWithReplacement = substrings.map((s) =>
+    s in assetMap ? assetMap[s] : s
+  )
   return substringsWithReplacement.join('')
 }
 

@@ -1,5 +1,4 @@
-type ContentPageSlug =
-  | 'about'
+type ContentPageSlug = 'about'
 
 export type StackParamList = {
   Films: undefined

@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native'
+import { View } from 'react-native'
 import { RenderHTML } from 'react-native-render-html'
 
 const source = {
