@@ -4,7 +4,7 @@
     "slug": "kampala",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./graphics/appicon.png",
     "splash": {
       "image": "./graphics/splash.png",
       "resizeMode": "contain",
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./graphics/appicon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
@@ -27,7 +27,7 @@
       "translucent": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./graphics/favicon.png"
     }
   }
 }
