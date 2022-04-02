@@ -103,7 +103,6 @@ function StackHeader(props: StackHeaderProps) {
     About: 2,
   }[currentRouteName]
 
-  const navState = props.navigation.getState()
   const stackHeaderShown = ['Film', 'Director'].includes(currentRouteName)
 
   return (
@@ -114,7 +113,7 @@ function StackHeader(props: StackHeaderProps) {
       />
       {stackHeaderShown && (
         <TabbedStackNavigationHeader
-          title={title}
+          title={title?.replace('Uncanon | ', '')}
           navigation={props.navigation}
         />
       )}
